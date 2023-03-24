@@ -1,0 +1,40 @@
+media,category,
+Chong Sung (2006),Cardiac Surgery,blue
+Demeyere (2010),Cardiac Surgery,blue
+Green (2020),Cardiac Surgery,blue
+Karkouti (2021),Cardiac Surgery,blue
+Massoumi G (2018),Cardiac Surgery,blue
+Smith  (2022),Cardiac Surgery,blue
+Tamura (2020),Cardiac Surgery,blue
+Tollofsrud (2003),Cardiac Surgery,blue
+French (2003),Liver Disease,green
+Bartelmaos (2013),Liver Transplant,yellow
+Bindi (2013),Liver Transplant,yellow
+Lance (2012),Non-Cardiovascular Surgery,brown
+Pieters (2015),Non-Cardiovascular Surgery,brown
+Jost (2022),Pre-Hospital Hemorrhagic Shock,orange
+Moore (2018),Pre-Hospital Hemorrhagic Shock,orange
+Sperry (2018),Pre-Hospital Hemorrhagic Shock,orange
+Carson  (2021),Prolonged INR,violet
+Matsumoto (2007),Stem Cell Transplant,darkgreen
+Etemadreziae (2007),Trauma,red
+Garrigue (2017),Trauma,red
+Innerhofer (2017),Trauma,red
+Zhang (2019),Trauma,red
+Morrison (2019),Vascular Surgery,darkred
+Stensballe (2018),Vascular Surgery,darkred
+Goldstein (2015),VKA Reversal,purple
+Muller (2015),VKA Reversal,purple
+Sarode (2013),VKA Reversal,purple
+Steiner (2016),VKA Reversal,purple
+Yiu (2006),VKA Reversal,purple
+Cardiac Surgery,Cardiac Surgery,blue
+Liver Disease,Liver Disease,green
+Liver Transplant,Liver Transplant,yellow
+Non-Cardiovascular Surgery,Non-Cardiovascular Surgery,brown
+Pre-Hospital Hemorrhagic Shock,Pre-Hospital Hemorrhagic Shock,orange
+Prolonged INR,Prolonged INR,violet
+Stem Cell Transplant,Stem Cell Transplant,darkgreen
+Trauma,Trauma,red
+Vascular Surgery,Vascular Surgery,darkred
+VKA Reversal,VKA Reversal,purple

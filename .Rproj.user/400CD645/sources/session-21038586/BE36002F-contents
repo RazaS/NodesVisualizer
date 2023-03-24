@@ -1,0 +1,45 @@
+library(dplyr)
+library(tidyverse)
+library(rvest)
+library(ggplot2)
+library(data.table)
+
+
+
+list.files()
+
+hb_dat <- "HPM_hb.csv" 
+
+fullpath <- file.path(getwd(), hb_dat) #creates the full path for you depending on OS
+
+
+file.exists(hb_dat)
+
+hb_data <- read_csv(fullpath)
+
+hb_df <- as.data.frame(hb_data)
+
+
+colnames(hb_df) <- c("RequestNum", "Barcode", "Lab", "MRN", "CollectionT", "ReceiptT", "ResultT", "SampleLocation", "Type", "Site", "Source", "Priority", "Hb")
+
+hbde <- hb_df %>% filter(!(is.na(Hb)))  #remove rows with pre-hb = null
+
+
+hbdf <- head(hbde, 10000) #for beta testing, subset of data
+
+hbdf <- hbdf %>% separate(CollectionT, c("CollectionDate", "CollectionTime"), " ", fill="right") #separate date and time
+hbdf <- hbdf %>% separate(ReceiptT, c("ReceiptDate", "ReceiptTime"), " ", fill="right") #separate date and time
+hbdf <- hbdf %>% separate(ResultT, c("ResultDate", "ResultTime"), " ", fill="right") #separate date and time
+
+hbdf <- hbdf[c("RequestNum", "Lab", "MRN", "CollectionDate", "CollectionTime", "SampleLocation", "Site", "Type", "Source", "Hb")] #limit the number of columns you are working with 
+
+hbdf <- hbdf %>% filter(Type=="IP") #filter only inpatient
+
+
+hb_upper= 300
+hb_lower= 0
+
+p <- ggplot(hbdf, aes(x=Hb)) +
+  geom_density(aes(colour=Site), bins = hb_upper, alpha=1, position="dodge") + ggtitle (paste("Hb Results at UHN", "Hb Range ", hb_lower, "-", hb_upper, ", n =", nrow(hbdf))) + scale_x_continuous(name = "Hemoglobin at Transfusion", breaks = seq(hb_lower, hb_upper, 1),limits=c(hb_lower-1, hb_upper+1)) + ylab ("RBC Units") + theme_bw()
+p
+

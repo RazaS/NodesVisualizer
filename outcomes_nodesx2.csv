@@ -1,0 +1,117 @@
+media,category,color
+ClinicalOutcomes,Outcome,blue
+LabOutcomes,Outcome,orange
+TransfusionOutcomes,Outcome,darkred
+ClinicalOutcome_A,Clinical Outcome,blue
+ClinicalOutcome_B,Clinical Outcome,blue
+ClinicalOutcome_C,Clinical Outcome,blue
+ClinicalOutcome_D,Clinical Outcome,blue
+LabOutcome_A,Lab Outcome,orange
+LabOutcome_B,Lab Outcome,orange
+LabOutcome_C,Lab Outcome,orange
+TransfusionOutcome_A,Transfusion Outcome,darkred
+TransfusionOutcome_B,Transfusion Outcome,darkred
+Chong Sung et al. (2006)1,Study,lightgray
+Green et al. (2020)1,Study,lightgray
+Karkouti et al. (2021)1,Study,lightgray
+Massoumi G et al. (2018)1,Study,lightgray
+Smith  et al. (2022)1,Study,lightgray
+Tamura et al. (2020)1,Study,lightgray
+Tollofsrud et al. (2003)1,Study,lightgray
+French et al. (2003)1,Study,lightgray
+Bartelmaos et al. (2013)1,Study,lightgray
+Bindi et al. (2013)1,Study,lightgray
+Lance et al. (2012)1,Study,lightgray
+Pieters et al. (2015)1,Study,lightgray
+Jost et al. (2022)1,Study,lightgray
+Sperry et al. (2018)1,Study,lightgray
+Matsumoto et al. (2007)1,Study,lightgray
+Etemadreziae et al. (2007)1,Study,lightgray
+Garrigue et al. (2017)1,Study,lightgray
+Zhang et al. (2019)1,Study,lightgray
+Morrison et al. (2019)1,Study,lightgray
+Stensballe et al. (2018)1,Study,lightgray
+Goldstein et al. (2015)1,Study,lightgray
+Muller et al. (2015)1,Study,lightgray
+Sarode et al. (2013)1,Study,lightgray
+Massoumi G et al. (2018)2,Study,lightgray
+Smith  et al. (2022)2,Study,lightgray
+French et al. (2003)2,Study,lightgray
+Bindi et al. (2013)2,Study,lightgray
+Moore et al. (2018)2,Study,lightgray
+Matsumoto et al. (2007)2,Study,lightgray
+Innerhofer et al. (2017)2,Study,lightgray
+Zhang et al. (2019)2,Study,lightgray
+Stensballe et al. (2018)2,Study,lightgray
+Steiner et al. (2016)2,Study,lightgray
+Chong Sung et al. (2006)3,Study,lightgray
+Massoumi G et al. (2018)3,Study,lightgray
+Tollofsrud et al. (2003)3,Study,lightgray
+Bindi et al. (2013)3,Study,lightgray
+Sperry et al. (2018)3,Study,lightgray
+Morrison et al. (2019)3,Study,lightgray
+Sarode et al. (2013)3,Study,lightgray
+Steiner et al. (2016)3,Study,lightgray
+Yiu et al. (2006)3,Study,lightgray
+Chong Sung et al. (2006)4,Study,lightgray
+Demeyere et al. (2010)4,Study,lightgray
+Green et al. (2020)4,Study,lightgray
+Tamura et al. (2020)4,Study,lightgray
+Bartelmaos et al. (2013)4,Study,lightgray
+Sperry et al. (2018)4,Study,lightgray
+Carson  et al. (2021)4,Study,lightgray
+Garrigue et al. (2017)4,Study,lightgray
+Innerhofer et al. (2017)4,Study,lightgray
+Zhang et al. (2019)4,Study,lightgray
+Green et al. (2020)5,Study,lightgray
+Karkouti et al. (2021)5,Study,lightgray
+Massoumi G et al. (2018)5,Study,lightgray
+Smith  et al. (2022)5,Study,lightgray
+Tamura et al. (2020)5,Study,lightgray
+Tollofsrud et al. (2003)5,Study,lightgray
+French et al. (2003)5,Study,lightgray
+Bindi et al. (2013)5,Study,lightgray
+Lance et al. (2012)5,Study,lightgray
+Pieters et al. (2015)5,Study,lightgray
+Jost et al. (2022)5,Study,lightgray
+Moore et al. (2018)5,Study,lightgray
+Carson  et al. (2021)5,Study,lightgray
+Etemadreziae et al. (2007)5,Study,lightgray
+Garrigue et al. (2017)5,Study,lightgray
+Stensballe et al. (2018)5,Study,lightgray
+Goldstein et al. (2015)5,Study,lightgray
+Muller et al. (2015)5,Study,lightgray
+Sarode et al. (2013)5,Study,lightgray
+Yiu et al. (2006)5,Study,lightgray
+Karkouti et al. (2021)6,Study,lightgray
+Massoumi G et al. (2018)6,Study,lightgray
+Tamura et al. (2020)6,Study,lightgray
+Jost et al. (2022)6,Study,lightgray
+Sperry et al. (2018)6,Study,lightgray
+Etemadreziae et al. (2007)6,Study,lightgray
+Steiner et al. (2016)6,Study,lightgray
+Massoumi G et al. (2018)7,Study,lightgray
+Smith  et al. (2022)7,Study,lightgray
+Bartelmaos et al. (2013)7,Study,lightgray
+Lance et al. (2012)7,Study,lightgray
+Pieters et al. (2015)7,Study,lightgray
+Jost et al. (2022)7,Study,lightgray
+Moore et al. (2018)7,Study,lightgray
+Garrigue et al. (2017)7,Study,lightgray
+Muller et al. (2015)7,Study,lightgray
+Sarode et al. (2013)7,Study,lightgray
+Tamura et al. (2020)8,Study,lightgray
+French et al. (2003)8,Study,lightgray
+Bartelmaos et al. (2013)8,Study,lightgray
+Bindi et al. (2013)8,Study,lightgray
+Moore et al. (2018)8,Study,lightgray
+Innerhofer et al. (2017)8,Study,lightgray
+Goldstein et al. (2015)8,Study,lightgray
+Yiu et al. (2006)8,Study,lightgray
+Massoumi G et al. (2018)9,Study,lightgray
+French et al. (2003)9,Study,lightgray
+Jost et al. (2022)9,Study,lightgray
+Zhang et al. (2019)9,Study,lightgray
+Morrison et al. (2019)9,Study,lightgray
+Stensballe et al. (2018)9,Study,lightgray
+Sarode et al. (2013)9,Study,lightgray

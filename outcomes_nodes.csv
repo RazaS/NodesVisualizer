@@ -1,0 +1,42 @@
+media,category,color
+ClinicalOutcome_A,Clinical Outcome,blue
+ClinicalOutcome_B,Clinical Outcome,blue
+ClinicalOutcome_C,Clinical Outcome,blue
+ClinicalOutcome_D,Clinical Outcome,blue
+LabOutcome_A,Lab Outcome,orange
+LabOutcome_B,Lab Outcome,orange
+LabOutcome_C,Lab Outcome,orange
+TransfusionOutcome_A,Transfusion Outcome,darkred
+TransfusionOutcome_B,Transfusion Outcome,darkred
+Chong Sung et al. (2006),Cardiac Surgery,black
+Demeyere et al. (2010),Cardiac Surgery,black
+Green et al. (2020),Cardiac Surgery,black
+Karkouti et al. (2021),Cardiac Surgery,black
+Massoumi G et al. (2018),Cardiac Surgery,black
+Smith  et al. (2022),Cardiac Surgery,black
+Tamura et al. (2020),Cardiac Surgery,black
+Tollofsrud et al. (2003),Cardiac Surgery,black
+French et al. (2003),Liver Disease,black
+Bartelmaos et al. (2013),Liver Transplant,black
+Bindi et al. (2013),Liver Transplant,black
+Lance et al. (2012),Non-Cardiovascular Surgery,black
+Pieters et al. (2015),Non-Cardiovascular Surgery,black
+Jost et al. (2022),Pre-Hospital Hemorrhagic Shock,black
+Moore et al. (2018),Pre-Hospital Hemorrhagic Shock,black
+Sperry et al. (2018),Pre-Hospital Hemorrhagic Shock,black
+Carson  et al. (2021),Prolonged INR,black
+Matsumoto et al. (2007),Stem Cell Transplant,black
+Etemadreziae et al. (2007),Trauma,black
+Garrigue et al. (2017),Trauma,black
+Innerhofer et al. (2017),Trauma,black
+Zhang et al. (2019),Trauma,black
+Morrison et al. (2019),Vascular Surgery,black
+Stensballe et al. (2018),Vascular Surgery,black
+Goldstein et al. (2015),VKA Reversal,black
+Muller et al. (2015),VKA Reversal,black
+Sarode et al. (2013),VKA Reversal,black
+Steiner et al. (2016),VKA Reversal,black
+Yiu et al. (2006),VKA Reversal,black
+ClinicalOutcomes,Outcome,white
+LabOutcomes,Outcome,white
+TransfusionOutcomes,Outcome,white

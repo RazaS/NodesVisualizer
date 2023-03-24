@@ -1,0 +1,40 @@
+media,category,color,weight
+Chong Sung (2006),Cardiac Surgery,blue,1
+Demeyere (2010),Cardiac Surgery,blue,1
+Green (2020),Cardiac Surgery,blue,1
+Karkouti (2021),Cardiac Surgery,blue,1
+Massoumi G (2018),Cardiac Surgery,blue,1
+Smith  (2022),Cardiac Surgery,blue,1
+Tamura (2020),Cardiac Surgery,blue,1
+Tollofsrud (2003),Cardiac Surgery,blue,1
+French (2003),Liver Disease,green,1
+Bartelmaos (2013),Liver Transplant,yellow,1
+Bindi (2013),Liver Transplant,yellow,1
+Lance (2012),Non-Cardiovascular Surgery,brown,1
+Pieters (2015),Non-Cardiovascular Surgery,brown,1
+Jost (2022),Pre-Hospital Hemorrhagic Shock,orange,1
+Moore (2018),Pre-Hospital Hemorrhagic Shock,orange,1
+Sperry (2018),Pre-Hospital Hemorrhagic Shock,orange,1
+Carson  (2021),Prolonged INR,violet,1
+Matsumoto (2007),Stem Cell Transplant,darkgreen,1
+Etemadreziae (2007),Trauma,red,1
+Garrigue (2017),Trauma,red,1
+Innerhofer (2017),Trauma,red,1
+Zhang (2019),Trauma,red,1
+Morrison (2019),Vascular Surgery,darkred,1
+Stensballe (2018),Vascular Surgery,darkred,1
+Goldstein (2015),VKA Reversal,purple,1
+Muller (2015),VKA Reversal,purple,1
+Sarode (2013),VKA Reversal,purple,1
+Steiner (2016),VKA Reversal,purple,1
+Yiu (2006),VKA Reversal,purple,1
+Cardiac Surgery,Cardiac Surgery,blue,8
+Liver Disease,Liver Disease,yellow,2
+Liver Transplant,Liver Transplant,yellow,1
+Non-Cardiovascular Surgery,Non-Cardiovascular Surgery,brown,2
+Pre-Hospital Hemorrhagic Shock,Pre-Hospital Hemorrhagic Shock,orange,3
+Prolonged INR,Prolonged INR,violet,1
+Stem Cell Transplant,Stem Cell Transplant,darkgreen,1
+Trauma,Trauma,red,4
+Vascular Surgery,Vascular Surgery,darkred,2
+VKA Reversal,VKA Reversal,purple,5

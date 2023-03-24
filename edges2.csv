@@ -1,0 +1,30 @@
+from,to,weight,type
+Cardiac Surgery,Chong Sung (2006),1,Therapeutic
+Cardiac Surgery,Demeyere (2010),1,Therapeutic
+Cardiac Surgery,Green (2020),1,Therapeutic
+Cardiac Surgery,Karkouti (2021),1,Therapeutic
+Cardiac Surgery,Massoumi G (2018),1,Therapeutic
+Cardiac Surgery,Smith  (2022),1,Therapeutic
+Cardiac Surgery,Tamura (2020),1,Therapeutic
+Cardiac Surgery,Tollofsrud (2003),1,Therapeutic
+Liver Disease,French (2003),1,Prophylactic
+Liver Transplant,Bartelmaos (2013),1,Therapeutic
+Liver Transplant,Bindi (2013),1,Therapeutic
+Non-Cardiovascular Surgery,Lance (2012),1,Therapeutic
+Non-Cardiovascular Surgery,Pieters (2015),1,Therapeutic
+Pre-Hospital Hemorrhagic Shock,Jost (2022),1,Therapeutic
+Pre-Hospital Hemorrhagic Shock,Moore (2018),1,Therapeutic
+Pre-Hospital Hemorrhagic Shock,Sperry (2018),1,Therapeutic
+Prolonged INR,Carson  (2021),1,Prophylactic
+Stem Cell Transplant,Matsumoto (2007),1,Prophylactic
+Trauma,Etemadreziae (2007),1,Therapeutic
+Trauma,Garrigue (2017),1,Therapeutic
+Trauma,Innerhofer (2017),1,Therapeutic
+Trauma,Zhang (2019),1,Therapeutic
+Vascular Surgery,Morrison (2019),1,Therapeutic
+Vascular Surgery,Stensballe (2018),1,Therapeutic
+VKA Reversal,Goldstein (2015),1,Prophylactic
+VKA Reversal,Muller (2015),1,Prophylactic
+VKA Reversal,Sarode (2013),1,Therapeutic
+VKA Reversal,Steiner (2016),1,Therapeutic
+VKA Reversal,Yiu (2006),1,Prophylactic

@@ -1,0 +1,39 @@
+"media","category","color","weight"
+"ClinicalOutcome_A","Clinical Outcome","blue",23
+"ClinicalOutcome_B","Clinical Outcome","blue",11
+"ClinicalOutcome_C","Clinical Outcome","blue",9
+"ClinicalOutcome_D","Clinical Outcome","blue",10
+"LabOutcome_A","Lab Outcome","yellow",20
+"LabOutcome_B","Lab Outcome","yellow",7
+"LabOutcome_C","Lab Outcome","yellow",10
+"TransfusionOutcome_A","Transfusion Outcome","darkred",8
+"TransfusionOutcome_B","Transfusion Outcome","darkred",7
+"Chong Sung et al. (2006)","Study","black",1
+"Demeyere et al. (2010)","Study","black",1
+"Green et al. (2020)","Study","black",1
+"Karkouti et al. (2021)","Study","black",1
+"Massoumi G et al. (2018)","Study","black",1
+"Smith  et al. (2022)","Study","black",1
+"Tamura et al. (2020)","Study","black",1
+"Tollofsrud et al. (2003)","Study","black",1
+"French et al. (2003)","Study","black",1
+"Bartelmaos et al. (2013)","Study","black",1
+"Bindi et al. (2013)","Study","black",1
+"Lance et al. (2012)","Study","black",1
+"Pieters et al. (2015)","Study","black",1
+"Jost et al. (2022)","Study","black",1
+"Moore et al. (2018)","Study","black",1
+"Sperry et al. (2018)","Study","black",1
+"Carson  et al. (2021)","Study","black",1
+"Matsumoto et al. (2007)","Study","black",1
+"Etemadreziae et al. (2007)","Study","black",1
+"Garrigue et al. (2017)","Study","black",1
+"Innerhofer et al. (2017)","Study","black",1
+"Zhang et al. (2019)","Study","black",1
+"Morrison et al. (2019)","Study","black",1
+"Stensballe et al. (2018)","Study","black",1
+"Goldstein et al. (2015)","Study","black",1
+"Muller et al. (2015)","Study","black",1
+"Sarode et al. (2013)","Study","black",1
+"Steiner et al. (2016)","Study","black",1
+"Yiu et al. (2006)","Study","black",1
