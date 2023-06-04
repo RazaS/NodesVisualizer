@@ -1,0 +1,763 @@
+﻿from,to,fromCount,edgewidth
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Death,D 1 Mortality and Survival,1,1
+CA Physiological,D 11 Immune system outcomes,1,1
+CA Clinical,D 17 Nervous system outcomes,1,1
+CA Clinical,D 17 Nervous system outcomes,1,1
+CA Clinical,D 17 Nervous system outcomes,1,1
+CA Clinical,D 17 Nervous system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 22 Respiratory thoracic and mediastinal outcomes,1,1
+CA Physiological,D 22 Respiratory thoracic and mediastinal outcomes,1,1
+CA Physiological,D 22 Respiratory thoracic and mediastinal outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Physiological,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Physiological,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Clinical,D 24 Vascular outcomes,1,1
+CA Life impact,D 25 Physical functioning,1,1
+CA Life impact,D 25 Physical functioning,1,1
+CA Life impact,D 30 Global quality of life,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Resource use,D 34 Economic,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Life impact,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Life impact,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 36 Need for further intervention,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 36 Need for further intervention,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 38 Adverse events and effects,MC Adverse events,1,1
+D 36 Need for further intervention,MC Adverse events,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 2 Blood and lymphatic system outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 24 Vascular outcomes,MC Bleeding,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 32 Delivery of care,MC Feasibility,1,1
+D 32 Delivery of care,MC Feasibility,1,1
+D 32 Delivery of care,MC Feasibility,1,1
+D 32 Delivery of care,MC Feasibility,1,1
+D 32 Delivery of care,MC Feasibility,1,1
+D 32 Delivery of care,MC Feasibility,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 25 Physical functioning,MC Life impact,1,1
+D 30 Global quality of life,MC Life impact,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 35 Hospital,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 25 Physical functioning,MC Organ specific treatment effect,1,1
+D 17 Nervous system outcomes,MC Organ specific treatment effect,1,1
+D 17 Nervous system outcomes,MC Organ specific treatment effect,1,1
+D 24 Vascular outcomes,MC Organ specific treatment effect,1,1
+D 17 Nervous system outcomes,MC Organ specific treatment effect,1,1
+D 17 Nervous system outcomes,MC Organ specific treatment effect,1,1
+D 32 Delivery of care,MC Organ specific treatment effect,1,1
+D 32 Delivery of care,MC Other,1,1
+D 32 Delivery of care,MC Other,1,1
+D 34 Economic,MC Other,1,1
+D 32 Delivery of care,MC Other,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 22 Respiratory thoracic and mediastinal outcomes,MC Otherlaboratory measurements,1,1
+D 22 Respiratory thoracic and mediastinal outcomes,MC Otherlaboratory measurements,1,1
+D 22 Respiratory thoracic and mediastinal outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 24 Vascular outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+D 11 Immune system outcomes,MC Otherlaboratory measurements,1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements,1,1
+MC Measures of coagulation,OM ACT,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Adverse events,OM Adverse events,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Otherlaboratory measurements,OM arterial blood gas,1,1
+MC Otherlaboratory measurements,OM arterial blood gas,1,1
+MC Otherlaboratory measurements,OM arterial blood gas,1,1
+MC Otherlaboratory measurements,OM arterial blood gas,1,1
+MC Measures of coagulation,OM ATIII,1,1
+MC Blood usage,OM Avoidance of allogeneic transfusion,1,1
+MC Life impact,OM Barthel Index,1,1
+MC Bleeding,OM Bleeding,1,1
+MC Bleeding,OM Bleeding,1,1
+MC Bleeding,OM Bleeding,1,1
+MC Bleeding,OM Bleeding,1,1
+MC Bleeding,OM Blood loss,1,1
+MC Bleeding,OM Blood loss,1,1
+MC Bleeding,OM Blood loss,1,1
+MC Bleeding,OM Blood loss,1,1
+MC Bleeding,OM Blood loss,1,1
+MC Bleeding,OM Blood loss,1,1
+MC Bleeding,OM Chest tube output,1,1
+MC Bleeding,OM Chest tube output,1,1
+MC Bleeding,OM Chest tube output,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Otherlaboratory measurements,OM Complement,1,1
+MC Bleeding,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Otherlaboratory measurements,OM Complete Blood Count,1,1
+MC Other,OM Consented and received intervention,1,1
+MC Measures of coagulation,OM Ddimers,1,1
+MC Measures of coagulation,OM Ddimers,1,1
+MC Mortality,OM Death,1,1
+MC Mortality,OM Death,1,1
+MC Mortality,OM Death,1,1
+MC Other,OM Donor exposure,1,1
+MC Other,OM Economic impact ,1,1
+MC Otherlaboratory measurements,OM Electrolytes,1,1
+MC Otherlaboratory measurements,OM Endothelial markers,1,1
+MC Organ specific treatment effect,OM Extended Glasgow Outcome Scale ,1,1
+MC Feasibility,OM Feasibility,1,1
+MC Feasibility,OM Feasibility,1,1
+MC Blood usage,OM FFP,1,1
+MC Measures of coagulation,OM Fibrin monomer,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Need for additional treatment,OM Fluids,1,1
+MC Need for additional treatment,OM Fluids,1,1
+MC Need for additional treatment,OM Fluids,1,1
+MC Need for additional treatment,OM Fluids,1,1
+MC Need for additional treatment,OM Fluids,1,1
+MC Adverse events,OM General,1,1
+MC Organ specific treatment effect,OM Glascow Coma Scale,1,1
+MC Otherlaboratory measurements,OM HCT,1,1
+MC Otherlaboratory measurements,OM HCT,1,1
+MC Need for additional treatment,OM Hemostatic agents,1,1
+MC Need for additional treatment,OM Hemostatic agents,1,1
+MC Need for additional treatment,OM Hemostatic agents,1,1
+MC Need for additional treatment,OM Hemostatic agents,1,1
+MC Need for additional treatment,OM Hemostatic agents,1,1
+MC Need for additional treatment,OM Hemostatic agents,1,1
+MC Need for additional treatment,OM Hemostatic agents,1,1
+MC Bleeding,OM Hemostatic efficacy,1,1
+MC Bleeding,OM Hemostatic efficacy,1,1
+MC Bleeding,OM Hemostatic efficacy,1,1
+MC Otherlaboratory measurements,OM in vivo thrombin generation ,1,1
+MC Otherlaboratory measurements,OM Inflammation markers,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC Measures of coagulation,OM INR,1,1
+MC INR,OM INR,1,1
+MC INR,OM INR,1,1
+MC Organ specific treatment effect,OM Intracerebral hemorrhage,1,1
+MC Organ specific treatment effect,OM Intracerebral hemorrhage,1,1
+MC Length of stay,OM Lenght of hospital stay,1,1
+MC Length of stay,OM LOS Hospital,1,1
+MC Length of stay,OM LOS Hospital,1,1
+MC Length of stay,OM LOS Hospital,1,1
+MC Length of stay,OM LOS Hospital,1,1
+MC Length of stay,OM LOS Hospital,1,1
+MC Mortality,OM LOS Hospital,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS PICU,1,1
+MC Adverse events,OM Lung injury,1,1
+MC Bleeding,OM Major bleeding,1,1
+MC Bleeding,OM Major bleeding,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality ,1,1
+MC Organ specific treatment effect,OM mRS score,1,1
+MC Organ specific treatment effect,OM National Institute of Health Stroke Scale,1,1
+MC Blood usage,OM Need for massive transfusion,1,1
+MC Blood usage,OM Need for massive transfusion,1,1
+MC Measures of coagulation,OM Other ,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Blood usage,OM Plasma,1,1
+MC Measures of coagulation,OM Plasma thromboplastin time (PTT),1,1
+MC Blood usage,OM plasma to crystalloid ratio,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Blood usage,OM Platelets,1,1
+MC Measures of coagulation,OM Protein C and S,1,1
+MC Measures of coagulation,OM Protein C and S,1,1
+MC Measures of coagulation,OM Prothrombin,1,1
+MC Other,OM Protocol adherence,1,1
+MC Measures of coagulation,OM PT,1,1
+MC Measures of coagulation,OM PT,1,1
+MC Measures of coagulation,OM PT,1,1
+MC Measures of coagulation,OM PT,1,1
+MC Measures of coagulation,OM PT,1,1
+MC Measures of coagulation,OM PT,1,1
+MC Measures of coagulation,OM PTT,1,1
+MC Measures of coagulation,OM PTT,1,1
+MC Measures of coagulation,OM PTT,1,1
+MC Adverse events,OM Pulmonary oedema,1,1
+MC Life impact,OM Quality of life,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Blood usage,OM RBC,1,1
+MC Adverse events,OM renal failure,1,1
+MC Adverse events,OM Reoperation,1,1
+MC Adverse events,OM Reoperation,1,1
+MC Adverse events,OM Reoperation,1,1
+MC Adverse events,OM Reoperation,1,1
+MC Otherlaboratory measurements,OM Reptilase time,1,1
+MC Measures of coagulation,OM Reversal of coagulopathy,1,1
+MC Adverse events,OM safety,1,1
+MC Mortality,OM Survival ,1,1
+MC Measures of coagulation,OM Thrombin generation,1,1
+MC Otherlaboratory measurements,OM Thromboelastography ,1,1
+MC Organ specific treatment effect,OM Time from intervention to chest closure,1,1
+MC Feasibility,OM Time to intervention,1,1
+MC Feasibility,OM Time to RBCtransfusion,1,1
+MC Feasibility,OM Time to transfuion,1,1
+MC Feasibility,OM traceability ,1,1
+MC Adverse events,OM Transfusion reaction,1,1
+MC Adverse events,OM Transfusion reaction,1,1
+MC Adverse events,OM Transfusion reaction,1,1
+MC Adverse events,OM Transfusion reaction,1,1
+MC Adverse events,OM Transfusion reaction,1,1
+MC Adverse events,OM Transfusion reaction,1,1
+MC Adverse events,OM Urgent surgery,1,1
+MC Measures of coagulation,OM Viscoelastic tests,1,1
+MC Measures of coagulation,OM Viscoelastic tests,1,1
+MC Measures of coagulation,OM Viscoelastic tests,1,1
+MC Measures of coagulation,OM Viscoelastic tests,1,1
+MC Blood usage,OM Whole Blood,1,1
+MC Blood usage,OM Whole Blood,1,1

@@ -1,0 +1,370 @@
+﻿from,to,fromCount,edgewidth
+CA Death,D 1 Mortality and Survival,1,1
+CA Physiological,D 11 Immune system outcomes,1,1
+CA Clinical,D 17 Nervous system outcomes,1,1
+CA Physiological,D 2 Blood and lymphatic system outcomes,1,1
+CA Physiological,D 22 Respiratory thoracic and mediastinal outcomes,1,1
+CA Clinical,D 24 Vascular outcomes (clinical),1,1
+CA Physiological,D 24 Vascular outcomes (physiological),1,1
+CA Life impact,D 25 Physical functioning,1,1
+CA Life impact,D 30 Global quality of life,1,1
+CA Life impact,D 32 Delivery of care,1,1
+CA Resource use,D 34 Economic,1,1
+CA Resource use,D 35 Hospital,1,1
+CA Resource use,D 36 Need for further intervention,1,1
+CA Adverse events,D 38 Adverse events and effects,1,1
+D 38 Adverse events and effects,MC Adverse events (D38),1,1
+D 36 Need for further intervention,MC Adverse events (D36),1,1
+D 2 Blood and lymphatic system outcomes,MC Bleeding (D2),1,1
+D 24 Vascular outcomes (clinical),MC Bleeding (D24),1,1
+D 36 Need for further intervention,MC Blood usage,1,1
+D 32 Delivery of care,MC Feasibility,1,1
+D 2 Blood and lymphatic system outcomes,MC INR,1,1
+D 35 Hospital,MC Length of stay,1,1
+D 25 Physical functioning,MC Life impact (D25),1,1
+D 30 Global quality of life,MC Life impact (D30),1,1
+D 2 Blood and lymphatic system outcomes,MC Measures of coagulation,1,1
+D 1 Mortality and Survival,MC Mortality,1,1
+D 36 Need for further intervention,MC Need for additional treatment,1,1
+D 17 Nervous system outcomes,MC Organ specific treatment effect (D17),1,1
+D 24 Vascular outcomes (clinical),MC Organ specific treatment effect (D24),1,1
+D 25 Physical functioning,MC Organ specific treatment effect (D25),1,1
+D 32 Delivery of care,MC Organ specific treatment effect (D32),1,1
+D 32 Delivery of care,MC Other (D32),1,1
+D 34 Economic,MC Other (D34),1,1
+D 11 Immune system outcomes,MC Otherlaboratory measurements (D11),1,1
+D 2 Blood and lymphatic system outcomes,MC Otherlaboratory measurements (D2),1,1
+D 22 Respiratory thoracic and mediastinal outcomes,MC Otherlaboratory measurements (D22),1,1
+D 24 Vascular outcomes (physiological),MC Otherlaboratory measurements (D24),1,1
+MC Measures of coagulation,OM ACT,1,1
+MC Adverse events (D38),OM Adverse events,1,1
+MC Measures of coagulation,OM aPTT,1,1
+MC Otherlaboratory measurements (D24),OM arterial blood gas,1,1
+MC Measures of coagulation,OM ATIII,1,1
+MC Blood usage,OM Avoidance of allogeneic transfusion,1,1
+MC Life impact (D25),OM Barthel Index,1,1
+MC Bleeding (D24),OM Bleeding,1,1
+MC Bleeding (D24),OM Blood loss,1,1
+MC Bleeding (D24),OM Chest tube output,1,1
+MC Measures of coagulation,OM Coagulation factors ,1,1
+MC Otherlaboratory measurements (D24),OM Complement,1,1
+MC Bleeding (D2),OM Complete Blood Count,1,1
+MC Otherlaboratory measurements (D24),OM Complete Blood Count,1,1
+MC Other (D32),OM Consented and received intervention,1,1
+MC Measures of coagulation,OM Ddimers,1,1
+MC Mortality,OM Death,1,1
+MC Other (D32),OM Donor exposure,1,1
+MC Other (D34),OM Economic impact ,1,1
+MC Otherlaboratory measurements (D24),OM Electrolytes,1,1
+MC Otherlaboratory measurements (D24),OM Endothelial markers,1,1
+MC Organ specific treatment effect (D17),OM Extended Glasgow Outcome Scale ,1,1
+MC Feasibility,OM Feasibility,1,1
+MC Blood usage,OM FFP,1,1
+MC Measures of coagulation,OM Fibrin monomer,1,1
+MC Measures of coagulation,OM Fibrinogen,1,1
+MC Need for additional treatment,OM Fluids,1,1
+MC Adverse events (D36),OM General,1,1
+MC Organ specific treatment effect (D17),OM Glascow Coma Scale,1,1
+MC Otherlaboratory measurements (D24),OM HCT,1,1
+MC Need for additional treatment,OM Hemostatic agents,1,1
+MC Bleeding (D2),OM Hemostatic efficacy,1,1
+MC Otherlaboratory measurements (D24),OM in vivo thrombin generation ,1,1
+MC Otherlaboratory measurements (D11),OM Inflammation markers,1,1
+MC INR,OM INR,1,1
+MC Measures of coagulation,OM INR,1,1
+MC Organ specific treatment effect (D17),OM Intracerebral hemorrhage,1,1
+MC Length of stay,OM Lenght of hospital stay,1,1
+MC Length of stay,OM LOS Hospital,1,1
+MC Length of stay,OM LOS ICU,1,1
+MC Length of stay,OM LOS PICU,1,1
+MC Adverse events (D38),OM Lung injury,1,1
+MC Bleeding (D24),OM Major bleeding,1,1
+MC Mortality,OM Mortality,1,1
+MC Mortality,OM Mortality ,1,1
+MC Organ specific treatment effect (D17),OM mRS score,1,1
+MC Organ specific treatment effect (D17),OM National Institute of Health Stroke Scale,1,1
+MC Blood usage,OM Need for massive transfusion,1,1
+MC Measures of coagulation,OM Other ,1,1
+MC Blood usage,OM Plasma,1,1
+MC Measures of coagulation,OM Plasma thromboplastin time (PTT),1,1
+MC Blood usage,OM plasma to crystalloid ratio,1,1
+MC Blood usage,OM Platelets,1,1
+MC Measures of coagulation,OM Protein C and S,1,1
+MC Measures of coagulation,OM Prothrombin,1,1
+MC Other (D32),OM Protocol adherence,1,1
+MC Measures of coagulation,OM PT,1,1
+MC Measures of coagulation,OM PTT,1,1
+MC Adverse events (D38),OM Pulmonary oedema,1,1
+MC Life impact (D30),OM Quality of life,1,1
+MC Blood usage,OM RBC,1,1
+MC Adverse events (D38),OM renal failure,1,1
+MC Adverse events (D38),OM Reoperation,1,1
+MC Otherlaboratory measurements (D24),OM Reptilase time,1,1
+MC Measures of coagulation,OM Reversal of coagulopathy,1,1
+MC Adverse events (D38),OM safety,1,1
+MC Mortality,OM Survival ,1,1
+MC Measures of coagulation,OM Thrombin generation,1,1
+MC Otherlaboratory measurements (D24),OM Thromboelastography ,1,1
+MC Organ specific treatment effect (D32),OM Time from intervention to chest closure,1,1
+MC Feasibility,OM Time to intervention,1,1
+MC Feasibility,OM Time to RBCtransfusion,1,1
+MC Feasibility,OM Time to transfuion,1,1
+MC Feasibility,OM traceability ,1,1
+MC Adverse events (D38),OM Transfusion reaction,1,1
+MC Adverse events (D36),OM Urgent surgery,1,1
+MC Measures of coagulation,OM Viscoelastic tests,1,1
+MC Blood usage,OM Whole Blood,1,1
+OM Adverse events,Bartelmaos et al (2013),1,1
+OM Blood loss,Bartelmaos et al (2013),1,1
+OM Coagulation factors ,Bartelmaos et al (2013),1,1
+OM Fibrinogen,Bartelmaos et al (2013),1,1
+OM Plasma,Bartelmaos et al (2013),1,1
+OM Platelets,Bartelmaos et al (2013),1,1
+OM PT,Bartelmaos et al (2013),1,1
+OM RBC,Bartelmaos et al (2013),1,1
+OM Thromboelastography ,Bindi et al (2013),1,1
+OM aPTT,Bindi et al (2013),1,1
+OM ATIII,Bindi et al (2013),1,1
+OM Coagulation factors ,Bindi et al (2013),1,1
+OM Complete Blood Count,Bindi et al (2013),1,1
+OM Fibrinogen,Bindi et al (2013),1,1
+OM INR,Bindi et al (2013),1,1
+OM Adverse events,Carson JL et al (2021),1,1
+OM Complete Blood Count,Carson JL et al (2021),1,1
+OM Complete Blood Count,Carson JL et al (2021),1,1
+OM INR,Carson JL et al (2021),1,1
+OM LOS ICU,Carson JL et al (2021),1,1
+OM Plasma,Carson JL et al (2021),1,1
+OM Platelets,Carson JL et al (2021),1,1
+OM RBC,Carson JL et al (2021),1,1
+OM Transfusion reaction,Carson JL et al (2021),1,1
+OM aPTT,Chong Sung et al (2006),1,1
+OM Blood loss,Chong Sung et al (2006),1,1
+OM Complete Blood Count,Chong Sung et al (2006),1,1
+OM Death,Chong Sung et al (2006),1,1
+OM FFP,Chong Sung et al (2006),1,1
+OM HCT,Chong Sung et al (2006),1,1
+OM INR,Chong Sung et al (2006),1,1
+OM RBC,Chong Sung et al (2006),1,1
+OM Reoperation,Chong Sung et al (2006),1,1
+OM Adverse events,Demeyere et al (2010),1,1
+OM Chest tube output,Demeyere et al (2010),1,1
+OM Coagulation factors ,Demeyere et al (2010),1,1
+OM HCT,Demeyere et al (2010),1,1
+OM in vivo thrombin generation ,Demeyere et al (2010),1,1
+OM Plasma,Demeyere et al (2010),1,1
+OM RBC,Demeyere et al (2010),1,1
+OM Reoperation,Demeyere et al (2010),1,1
+OM Complete Blood Count,Etemadreziae et al (2007),1,1
+OM Glascow Coma Scale,Etemadreziae et al (2007),1,1
+OM INR,Etemadreziae et al (2007),1,1
+OM Intracerebral hemorrhage,Etemadreziae et al (2007),1,1
+OM Mortality,Etemadreziae et al (2007),1,1
+OM Plasma thromboplastin time (PTT),Etemadreziae et al (2007),1,1
+OM Reoperation,Etemadreziae et al (2007),1,1
+OM aPTT,French et al (2003),1,1
+OM Coagulation factors ,French et al (2003),1,1
+OM Ddimers,French et al (2003),1,1
+OM INR,French et al (2003),1,1
+OM Pulmonary oedema,French et al (2003),1,1
+OM Reptilase time,French et al (2003),1,1
+OM aPTT,Garrigue et al (2017),1,1
+OM arterial blood gas,Garrigue et al (2017),1,1
+OM Coagulation factors ,Garrigue et al (2017),1,1
+OM Fibrin monomer,Garrigue et al (2017),1,1
+OM Fibrinogen,Garrigue et al (2017),1,1
+OM Fluids,Garrigue et al (2017),1,1
+OM Hemostatic agents,Garrigue et al (2017),1,1
+OM LOS Hospital,Garrigue et al (2017),1,1
+OM Plasma,Garrigue et al (2017),1,1
+OM Platelets,Garrigue et al (2017),1,1
+OM PT,Garrigue et al (2017),1,1
+OM RBC,Garrigue et al (2017),1,1
+OM Time to transfuion,Garrigue et al (2017),1,1
+OM Adverse events,Goldstein et al (2015),1,1
+OM Coagulation factors ,Goldstein et al (2015),1,1
+OM Hemostatic efficacy,Goldstein et al (2015),1,1
+OM INR,Goldstein et al (2015),1,1
+OM Protein C and S,Goldstein et al (2015),1,1
+OM RBC,Goldstein et al (2015),1,1
+OM Whole Blood,Goldstein et al (2015),1,1
+OM aPTT,Green et al (2020),1,1
+OM Blood loss,Green et al (2020),1,1
+OM Coagulation factors ,Green et al (2020),1,1
+OM Consented and received intervention,Green et al (2020),1,1
+OM Ddimers,Green et al (2020),1,1
+OM Fibrinogen,Green et al (2020),1,1
+OM Hemostatic agents,Green et al (2020),1,1
+OM Other ,Green et al (2020),1,1
+OM Plasma,Green et al (2020),1,1
+OM Platelets,Green et al (2020),1,1
+OM Protocol adherence,Green et al (2020),1,1
+OM PTT,Green et al (2020),1,1
+OM RBC,Green et al (2020),1,1
+OM safety,Green et al (2020),1,1
+OM Time from intervention to chest closure,Green et al (2020),1,1
+OM Time to intervention,Green et al (2020),1,1
+OM Adverse events,Innerhofer et al (2017),1,1
+OM LOS ICU,Innerhofer et al (2017),1,1
+OM Mortality,Innerhofer et al (2017),1,1
+OM Need for massive transfusion,Innerhofer et al (2017),1,1
+OM Reversal of coagulopathy,Innerhofer et al (2017),1,1
+OM Adverse events,Jost et al (2022),1,1
+OM arterial blood gas,Jost et al (2022),1,1
+OM Coagulation factors ,Jost et al (2022),1,1
+OM Complete Blood Count,Jost et al (2022),1,1
+OM Feasibility,Jost et al (2022),1,1
+OM Fibrinogen,Jost et al (2022),1,1
+OM INR,Jost et al (2022),1,1
+OM LOS Hospital,Jost et al (2022),1,1
+OM LOS ICU,Jost et al (2022),1,1
+OM Mortality ,Jost et al (2022),1,1
+OM Need for massive transfusion,Jost et al (2022),1,1
+OM Plasma,Jost et al (2022),1,1
+OM plasma to crystalloid ratio,Jost et al (2022),1,1
+OM Platelets,Jost et al (2022),1,1
+OM PT,Jost et al (2022),1,1
+OM RBC,Jost et al (2022),1,1
+OM Survival ,Jost et al (2022),1,1
+OM traceability ,Jost et al (2022),1,1
+OM Transfusion reaction,Jost et al (2022),1,1
+OM Urgent surgery,Jost et al (2022),1,1
+OM Bleeding,Karkouti et al (2021),1,1
+OM Blood loss,Karkouti et al (2021),1,1
+OM Hemostatic agents,Karkouti et al (2021),1,1
+OM Hemostatic efficacy,Karkouti et al (2021),1,1
+OM Plasma,Karkouti et al (2021),1,1
+OM Platelets,Karkouti et al (2021),1,1
+OM RBC,Karkouti et al (2021),1,1
+OM Bleeding,Lance et al (2012),1,1
+OM Coagulation factors ,Lance et al (2012),1,1
+OM Fibrinogen,Lance et al (2012),1,1
+OM Prothrombin,Lance et al (2012),1,1
+OM Thrombin generation,Lance et al (2012),1,1
+OM Viscoelastic tests,Lance et al (2012),1,1
+OM ACT,Massoumi G et al (2018),1,1
+OM aPTT,Massoumi G et al (2018),1,1
+OM Chest tube output,Massoumi G et al (2018),1,1
+OM Complete Blood Count,Massoumi G et al (2018),1,1
+OM Fibrinogen,Massoumi G et al (2018),1,1
+OM PT,Massoumi G et al (2018),1,1
+OM Adverse events,Moore et al (2018),1,1
+OM arterial blood gas,Moore et al (2018),1,1
+OM Coagulation factors ,Moore et al (2018),1,1
+OM Fibrinogen,Moore et al (2018),1,1
+OM Fluids,Moore et al (2018),1,1
+OM Hemostatic agents,Moore et al (2018),1,1
+OM INR,Moore et al (2018),1,1
+OM Mortality,Moore et al (2018),1,1
+OM Plasma,Moore et al (2018),1,1
+OM Platelets,Moore et al (2018),1,1
+OM RBC,Moore et al (2018),1,1
+OM Time to RBCtransfusion,Moore et al (2018),1,1
+OM Transfusion reaction,Moore et al (2018),1,1
+OM Viscoelastic tests,Moore et al (2018),1,1
+OM Adverse events,Morrison et al (2019),1,1
+OM aPTT,Morrison et al (2019),1,1
+OM Bleeding,Morrison et al (2019),1,1
+OM Complete Blood Count,Morrison et al (2019),1,1
+OM Fibrinogen,Morrison et al (2019),1,1
+OM Fluids,Morrison et al (2019),1,1
+OM INR,Morrison et al (2019),1,1
+OM LOS Hospital,Morrison et al (2019),1,1
+OM LOS ICU,Morrison et al (2019),1,1
+OM Mortality,Morrison et al (2019),1,1
+OM Plasma,Morrison et al (2019),1,1
+OM Platelets,Morrison et al (2019),1,1
+OM RBC,Morrison et al (2019),1,1
+OM INR,Muller et al (2015),1,1
+OM LOS ICU,Muller et al (2015),1,1
+OM Lung injury,Muller et al (2015),1,1
+OM Major bleeding,Muller et al (2015),1,1
+OM Mortality,Muller et al (2015),1,1
+OM arterial blood gas,Pieters et al (2015),1,1
+OM Blood loss,Pieters et al (2015),1,1
+OM Donor exposure,Pieters et al (2015),1,1
+OM Electrolytes,Pieters et al (2015),1,1
+OM Fibrinogen,Pieters et al (2015),1,1
+OM Fluids,Pieters et al (2015),1,1
+OM Hemostatic agents,Pieters et al (2015),1,1
+OM LOS Hospital,Pieters et al (2015),1,1
+OM LOS PICU,Pieters et al (2015),1,1
+OM Plasma,Pieters et al (2015),1,1
+OM Platelets,Pieters et al (2015),1,1
+OM PT,Pieters et al (2015),1,1
+OM PTT,Pieters et al (2015),1,1
+OM RBC,Pieters et al (2015),1,1
+OM Adverse events,Sarode et al (2013),1,1
+OM Coagulation factors ,Sarode et al (2013),1,1
+OM Death,Sarode et al (2013),1,1
+OM Hemostatic efficacy,Sarode et al (2013),1,1
+OM INR,Sarode et al (2013),1,1
+OM Protein C and S,Sarode et al (2013),1,1
+OM Adverse events,Smith et al (2022),1,1
+OM aPTT,Smith et al (2022),1,1
+OM Avoidance of allogeneic transfusion,Smith et al (2022),1,1
+OM Chest tube output,Smith et al (2022),1,1
+OM Complete Blood Count,Smith et al (2022),1,1
+OM Fibrinogen,Smith et al (2022),1,1
+OM Hemostatic agents,Smith et al (2022),1,1
+OM INR,Smith et al (2022),1,1
+OM LOS Hospital,Smith et al (2022),1,1
+OM LOS ICU,Smith et al (2022),1,1
+OM Mortality,Smith et al (2022),1,1
+OM Plasma,Smith et al (2022),1,1
+OM Platelets,Smith et al (2022),1,1
+OM PT,Smith et al (2022),1,1
+OM RBC,Smith et al (2022),1,1
+OM Reoperation,Smith et al (2022),1,1
+OM Adverse events,Sperry et al (2018),1,1
+OM Fluids,Sperry et al (2018),1,1
+OM Mortality,Sperry et al (2018),1,1
+OM Plasma,Sperry et al (2018),1,1
+OM Platelets,Sperry et al (2018),1,1
+OM PTT,Sperry et al (2018),1,1
+OM RBC,Sperry et al (2018),1,1
+OM Transfusion reaction,Sperry et al (2018),1,1
+OM Viscoelastic tests,Sperry et al (2018),1,1
+OM Adverse events,Steiner et al (2016),1,1
+OM Barthel Index,Steiner et al (2016),1,1
+OM Death,Steiner et al (2016),1,1
+OM Extended Glasgow Outcome Scale ,Steiner et al (2016),1,1
+OM Feasibility,Steiner et al (2016),1,1
+OM INR,Steiner et al (2016),1,1
+OM Intracerebral hemorrhage,Steiner et al (2016),1,1
+OM mRS score,Steiner et al (2016),1,1
+OM National Institute of Health Stroke Scale,Steiner et al (2016),1,1
+OM Quality of life,Steiner et al (2016),1,1
+OM Adverse events,Stensballe et al (2018),1,1
+OM Bleeding,Stensballe et al (2018),1,1
+OM Economic impact ,Stensballe et al (2018),1,1
+OM Endothelial markers,Stensballe et al (2018),1,1
+OM Hemostatic agents,Stensballe et al (2018),1,1
+OM Inflammation markers,Stensballe et al (2018),1,1
+OM LOS Hospital,Stensballe et al (2018),1,1
+OM LOS ICU,Stensballe et al (2018),1,1
+OM Mortality,Stensballe et al (2018),1,1
+OM renal failure,Stensballe et al (2018),1,1
+OM Transfusion reaction,Stensballe et al (2018),1,1
+OM Blood loss,Tamura et al (2020),1,1
+OM LOS ICU,Tamura et al (2020),1,1
+OM Plasma,Tamura et al (2020),1,1
+OM Platelets,Tamura et al (2020),1,1
+OM RBC,Tamura et al (2020),1,1
+OM Viscoelastic tests,Tamura et al (2020),1,1
+OM Adverse events,Tollofsrud et al (2003),1,1
+OM aPTT,Tollofsrud et al (2003),1,1
+OM Complement,Tollofsrud et al (2003),1,1
+OM General,Tollofsrud et al (2003),1,1
+OM Plasma,Tollofsrud et al (2003),1,1
+OM Platelets,Tollofsrud et al (2003),1,1
+OM RBC,Tollofsrud et al (2003),1,1
+OM Whole Blood,Tollofsrud et al (2003),1,1
+OM Adverse events,Yiu et al (2006),1,1
+OM INR,Yiu et al (2006),1,1
+OM Major bleeding,Yiu et al (2006),1,1
+OM Transfusion reaction,Yiu et al (2006),1,1
+OM Adverse events,Zhang et al (20219),1,1
+OM Complete Blood Count,Zhang et al (20219),1,1
+OM Lenght of hospital stay,Zhang et al (20219),1,1
+OM Mortality,Zhang et al (20219),1,1

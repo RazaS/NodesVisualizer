@@ -1,0 +1,43 @@
+﻿from,to,fromCount,edgewidth
+Resource use,Additional Intervention,42,2
+Additional Intervention,Additonal medication,8,2
+Clinical,Adverse events,54,2
+Bleeding,Anticoagulant,21,2
+Clinical,Bleeding,54,2
+Resource use,Blood usage,42,2
+Organ effects,Brain,3,2
+Adverse events,Clinical events,30,2
+Functioning,Clinical events Scale,1,2
+Coagulation measures,Clotting times,42,2
+Physiological,Coagulation measures,57,2
+Laboratory measures,Complete blood counts,15,2
+Economic,Cost,1,2
+Life Impact,Delivery of care,12,2
+Resource use,Economic,42,1
+Coagulation measures,Factor concentrations,42,1
+Delivery of care,Feasibility,6,1
+Life Impact,Functioning,7,1
+Bleeding,Hemostasis,21,1
+Additional Intervention,Hemostatic agents,8,1
+Resource use,Hospital,42,1
+Bleeding,Intracranial,21,1
+Physiological,Laboratory measures,57,1
+Laboratory measures,Lactate,15,1
+Hospital,Length of stay,10,1
+Organ effects,Liver,3,1
+Blood usage,Massive Hemorrhage Protocol,23,1
+Blood usage,Misc,23,1
+Adverse events,Need for operation,30,1
+Bleeding,Operative,21,1
+Adverse events,Operative complications,30,1
+Clinical,Organ effects,54,1
+Coagulation measures,Other,42,1
+Laboratory measures,Other measures,15,1
+Mortality,Other Mortality,14,1
+Delivery of care,Timeliness,6,1
+Mortality,Time-Specific,14,1
+Adverse events,Transfusion reactions,30,1
+Blood usage,Units,23,1
+Delivery of care,Useability ,6,1
+Coagulation measures,Viscoelastic tests,42,1
+Blood usage,Volume,23,1

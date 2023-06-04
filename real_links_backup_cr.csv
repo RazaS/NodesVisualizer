@@ -1,0 +1,175 @@
+﻿from,to,fromCount,edgewidth
+Need for operation,Etemadreziae (2007),3,1
+Hemostasis,Massoumi G et al (2018),5,1
+Factor concentrations,Massoumi G et al (2018),19,1
+Complete blood counts,Massoumi G et al (2018),10,1
+Clinical events,Stensballe et al (2018),11,1
+Transfusion reactions,Stensballe et al (2018),7,1
+Operative,Stensballe et al (2018),12,1
+Other Mortality,Stensballe et al (2018),8,1
+Other measures,Stensballe et al (2018),2,1
+Additonal medication,Stensballe et al (2018),7,1
+Cost,Stensballe et al (2018),1,1
+Length of stay,Stensballe et al (2018),10,1
+Operative complications,Carson JL et al (2021),9,1
+Transfusion reactions,Carson JL et al (2021),7,1
+Operative,Carson JL et al (2021),12,1
+Clotting times,Carson JL et al (2021),17,1
+Complete blood counts,Carson JL et al (2021),10,1
+Units,Carson JL et al (2021),14,1
+Length of stay,Carson JL et al (2021),10,1
+Operative complications,Demeyere et al (2010),9,1
+Operative,Demeyere et al (2010),12,1
+Factor concentrations,Demeyere et al (2010),19,1
+Clotting times,Demeyere et al (2010),17,1
+Units,Demeyere et al (2010),14,1
+Time-Specific,Garrigue et al (2017),6,1
+Factor concentrations,Garrigue et al (2017),19,1
+Factor concentrations,Garrigue et al (2017),19,1
+Factor concentrations,Garrigue et al (2017),19,1
+Lactate,Garrigue et al (2017),3,1
+Additonal medication,Garrigue et al (2017),7,1
+Units,Garrigue et al (2017),14,1
+Misc,Garrigue et al (2017),3,1
+Operative,Karkouti et al (2021),12,1
+Hemostasis,Karkouti et al (2021),5,1
+Hemostasis,Karkouti et al (2021),5,1
+Hemostatic agents,Karkouti et al (2021),1,1
+Units,Karkouti et al (2021),14,1
+Clinical events,Morrison et al (2019),11,1
+Operative,Morrison et al (2019),12,1
+Time-Specific,Morrison et al (2019),6,1
+Factor concentrations,Morrison et al (2019),19,1
+Complete blood counts,Morrison et al (2019),10,1
+Units,Morrison et al (2019),14,1
+Length of stay,Morrison et al (2019),10,1
+Intracranial,Etemadreziae (2007),1,1
+Brain,Etemadreziae (2007),2,1
+Time-Specific,Etemadreziae (2007),6,1
+Clotting times,Etemadreziae (2007),17,1
+Complete blood counts,Etemadreziae (2007),10,1
+Clinical events,Sperry et al (2018),11,1
+Transfusion reactions,Sperry et al (2018),7,1
+Time-Specific,Sperry et al (2018),6,1
+Clotting times,Sperry et al (2018),17,1
+Additonal medication,Sperry et al (2018),7,1
+Volume,Sperry et al (2018),4,1
+Operative,Tamura et al (2020),12,1
+Viscoelastic tests,Tamura et al (2020),4,1
+Units,Tamura et al (2020),14,1
+Length of stay,Tamura et al (2020),10,1
+Clinical events,Green et al (2020),11,1
+Operative,Green et al (2020),12,1
+Timeliness,Green et al (2020),4,1
+Timeliness,Green et al (2020),4,1
+Factor concentrations,Green et al (2020),19,1
+Additonal medication,Green et al (2020),7,1
+Units,Green et al (2020),14,1
+Transfusion reactions,Smith et al (2022),7,1
+Length of stay,Smith et al (2022),10,1
+Need for operation,Smith et al (2022),3,1
+Operative,Smith et al (2022),12,1
+Hemostasis,Smith et al (2022),5,1
+Other Mortality,Smith et al (2022),8,1
+Clotting times,Smith et al (2022),17,1
+Complete blood counts,Smith et al (2022),10,1
+Units,Smith et al (2022),14,1
+Misc,Smith et al (2022),3,1
+Operative complications,Zhang et al (2019),9,1
+Other Mortality,Zhang et al (2019),8,1
+Complete blood counts,Zhang et al (2019),10,1
+Length of stay,Zhang et al (2019),10,1
+Operative complications,Bartelmaos (2013),9,1
+Operative,Bartelmaos (2013),12,1
+Factor concentrations,Bartelmaos (2013),19,1
+Units,Bartelmaos (2013),14,1
+Volume,Bartelmaos (2013),4,1
+Operative complications,Chong Sung (2006),9,1
+Operative,Chong Sung (2006),12,1
+Other Mortality,Chong Sung (2006),8,1
+Factor concentrations,Chong Sung (2006),19,1
+Clotting times,Chong Sung (2006),17,1
+Complete blood counts,Chong Sung (2006),10,1
+Units,Chong Sung (2006),14,1
+Volume,Chong Sung (2006),4,1
+Operative complications,Innerhofer (2017),9,1
+Other Mortality,Innerhofer (2017),8,1
+Other,Innerhofer (2017),2,1
+Massive Hemorrhage Protocol,Innerhofer (2017),2,1
+Length of stay,Innerhofer (2017),10,1
+Clinical events,Jost et al (2022),11,1
+Additonal medication,Jost et al (2022),7,1
+Misc,Jost et al (2022),3,1
+Massive Hemorrhage Protocol,Jost et al (2022),2,1
+Length of stay,Jost et al (2022),10,1
+Transfusion reactions,Jost et al (2022),7,1
+Need for operation,Jost et al (2022),3,1
+Other Mortality,Jost et al (2022),8,1
+Feasibility,Jost et al (2022),1,1
+Useability ,Jost et al (2022),1,1
+Factor concentrations,Jost et al (2022),19,1
+Clotting times,Jost et al (2022),17,1
+Lactate,Jost et al (2022),3,1
+Clinical events,Tollofsrud (2003),11,1
+Operative complications,Tollofsrud (2003),9,1
+Factor concentrations,Tollofsrud (2003),19,1
+Clotting times,Tollofsrud (2003),17,1
+Units,Tollofsrud (2003),14,1
+Clinical events,Goldstein (2015),11,1
+Operative,Goldstein (2015),12,1
+Factor concentrations,Goldstein (2015),19,1
+Clotting times,Goldstein (2015),17,1
+Units,Goldstein (2015),14,1
+Volume,Goldstein (2015),4,1
+Liver,Matsumoto (2007),1,1
+Other,Matsumoto (2007),2,1
+Complete blood counts,Matsumoto (2007),10,1
+Other measures,Matsumoto (2007),2,1
+Operative,Pieters (2015),12,1
+Factor concentrations,Pieters (2015),19,1
+Factor concentrations,Pieters (2015),19,1
+Clotting times,Pieters (2015),17,1
+Complete blood counts,Pieters (2015),10,1
+Units,Pieters (2015),14,1
+Length of stay,Pieters (2015),10,1
+Clinical events,Steiner (2016),11,1
+Brain,Steiner (2016),2,1
+Other Mortality,Steiner (2016),8,1
+Timeliness,Steiner (2016),4,1
+Clinical events Scale,Steiner (2016),1,1
+Clotting times,Steiner (2016),17,1
+Factor concentrations,French (2003),19,1
+Clotting times,French (2003),17,1
+Operative complications,French (2003),9,1
+Operative complications,Muller (2015),9,1
+Anticoagulant,Muller (2015),3,1
+Other Mortality,Muller (2015),8,1
+Clotting times,Muller (2015),17,1
+Length of stay,Muller (2015),10,1
+Clinical events,Sarode (2013),11,1
+Anticoagulant,Sarode (2013),3,1
+Time-Specific,Sarode (2013),6,1
+Factor concentrations,Sarode (2013),19,1
+Clotting times,Sarode (2013),17,1
+Factor concentrations,Bindi (2013),19,1
+Clotting times,Bindi (2013),17,1
+Viscoelastic tests,Bindi (2013),4,1
+Complete blood counts,Bindi (2013),10,1
+Hemostasis,Lance (2012),5,1
+Factor concentrations,Lance (2012),19,1
+Viscoelastic tests,Lance (2012),4,1
+Clinical events,Moore (2018),11,1
+Lactate,Moore (2018),3,1
+Transfusion reactions,Moore (2018),7,1
+Additonal medication,Moore (2018),7,1
+Additonal medication,Moore (2018),7,1
+Time-Specific,Moore (2018),6,1
+Units,Moore (2018),14,1
+Timeliness,Moore (2018),4,1
+Factor concentrations,Moore (2018),19,1
+Clotting times,Moore (2018),17,1
+Viscoelastic tests,Moore (2018),4,1
+Clinical events,Yiu (2006),11,1
+Transfusion reactions,Yiu (2006),7,1
+Anticoagulant,Yiu (2006),3,1
+Clotting times,Yiu (2006),17,1

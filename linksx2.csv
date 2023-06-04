@@ -1,114 +1,117 @@
 from,to,fromCount
-ClinicalOutcome_A,Chong Sung et al. (2006)1,23
-ClinicalOutcome_A,Green et al. (2020)1,23
-ClinicalOutcome_A,Karkouti et al. (2021)1,23
-ClinicalOutcome_A,Massoumi G et al. (2018)1,23
-ClinicalOutcome_A,Smith  et al. (2022)1,23
-ClinicalOutcome_A,Tamura et al. (2020)1,23
-ClinicalOutcome_A,Tollofsrud et al. (2003)1,23
-ClinicalOutcome_A,French et al. (2003)1,23
-ClinicalOutcome_A,Bartelmaos et al. (2013)1,23
-ClinicalOutcome_A,Bindi et al. (2013)1,23
-ClinicalOutcome_A,Lance et al. (2012)1,23
-ClinicalOutcome_A,Pieters et al. (2015)1,23
-ClinicalOutcome_A,Jost et al. (2022)1,23
-ClinicalOutcome_A,Sperry et al. (2018)1,23
-ClinicalOutcome_A,Matsumoto et al. (2007)1,23
-ClinicalOutcome_A,Etemadreziae et al. (2007)1,23
-ClinicalOutcome_A,Garrigue et al. (2017)1,23
-ClinicalOutcome_A,Zhang et al. (2019)1,23
-ClinicalOutcome_A,Morrison et al. (2019)1,23
-ClinicalOutcome_A,Stensballe et al. (2018)1,23
-ClinicalOutcome_A,Goldstein et al. (2015)1,23
-ClinicalOutcome_A,Muller et al. (2015)1,23
-ClinicalOutcome_A,Sarode et al. (2013)1,23
-ClinicalOutcome_B,Massoumi G et al. (2018)2,11
-ClinicalOutcome_B,Smith  et al. (2022)2,11
-ClinicalOutcome_B,French et al. (2003)2,11
-ClinicalOutcome_B,Bindi et al. (2013)2,11
-ClinicalOutcome_B,Moore et al. (2018)2,11
-ClinicalOutcome_B,Matsumoto et al. (2007)2,11
-ClinicalOutcome_B,Innerhofer et al. (2017)2,11
-ClinicalOutcome_B,Zhang et al. (2019)2,11
-ClinicalOutcome_B,Stensballe et al. (2018)2,11
-ClinicalOutcome_B,Steiner et al. (2016)2,11
-ClinicalOutcome_C,Chong Sung et al. (2006)3,9
-ClinicalOutcome_C,Massoumi G et al. (2018)3,9
-ClinicalOutcome_C,Tollofsrud et al. (2003)3,9
-ClinicalOutcome_C,Bindi et al. (2013)3,9
-ClinicalOutcome_C,Sperry et al. (2018)3,9
-ClinicalOutcome_C,Morrison et al. (2019)3,9
-ClinicalOutcome_C,Sarode et al. (2013)3,9
-ClinicalOutcome_C,Steiner et al. (2016)3,9
-ClinicalOutcome_C,Yiu et al. (2006)3,9
-ClinicalOutcome_D,Chong Sung et al. (2006)4,10
-ClinicalOutcome_D,Demeyere et al. (2010)4,10
-ClinicalOutcome_D,Green et al. (2020)4,10
-ClinicalOutcome_D,Tamura et al. (2020)4,10
-ClinicalOutcome_D,Bartelmaos et al. (2013)4,10
-ClinicalOutcome_D,Sperry et al. (2018)4,10
-ClinicalOutcome_D,Carson  et al. (2021)4,10
-ClinicalOutcome_D,Garrigue et al. (2017)4,10
-ClinicalOutcome_D,Innerhofer et al. (2017)4,10
-ClinicalOutcome_D,Zhang et al. (2019)4,10
-LabOutcome_A,Green et al. (2020)5,20
-LabOutcome_A,Karkouti et al. (2021)5,20
-LabOutcome_A,Massoumi G et al. (2018)5,20
-LabOutcome_A,Smith  et al. (2022)5,20
-LabOutcome_A,Tamura et al. (2020)5,20
-LabOutcome_A,Tollofsrud et al. (2003)5,20
-LabOutcome_A,French et al. (2003)5,20
-LabOutcome_A,Bindi et al. (2013)5,20
-LabOutcome_A,Lance et al. (2012)5,20
-LabOutcome_A,Pieters et al. (2015)5,20
-LabOutcome_A,Jost et al. (2022)5,20
-LabOutcome_A,Moore et al. (2018)5,20
-LabOutcome_A,Carson  et al. (2021)5,20
-LabOutcome_A,Etemadreziae et al. (2007)5,20
-LabOutcome_A,Garrigue et al. (2017)5,20
-LabOutcome_A,Stensballe et al. (2018)5,20
-LabOutcome_A,Goldstein et al. (2015)5,20
-LabOutcome_A,Muller et al. (2015)5,20
-LabOutcome_A,Sarode et al. (2013)5,20
-LabOutcome_A,Yiu et al. (2006)5,20
-LabOutcome_B,Karkouti et al. (2021)6,7
-LabOutcome_B,Massoumi G et al. (2018)6,7
-LabOutcome_B,Tamura et al. (2020)6,7
-LabOutcome_B,Jost et al. (2022)6,7
-LabOutcome_B,Sperry et al. (2018)6,7
-LabOutcome_B,Etemadreziae et al. (2007)6,7
-LabOutcome_B,Steiner et al. (2016)6,7
-LabOutcome_C,Massoumi G et al. (2018)7,10
-LabOutcome_C,Smith  et al. (2022)7,10
-LabOutcome_C,Bartelmaos et al. (2013)7,10
-LabOutcome_C,Lance et al. (2012)7,10
-LabOutcome_C,Pieters et al. (2015)7,10
-LabOutcome_C,Jost et al. (2022)7,10
-LabOutcome_C,Moore et al. (2018)7,10
-LabOutcome_C,Garrigue et al. (2017)7,10
-LabOutcome_C,Muller et al. (2015)7,10
-LabOutcome_C,Sarode et al. (2013)7,10
-TransfusionOutcome_A,Tamura et al. (2020)8,8
-TransfusionOutcome_A,French et al. (2003)8,8
-TransfusionOutcome_A,Bartelmaos et al. (2013)8,8
-TransfusionOutcome_A,Bindi et al. (2013)8,8
-TransfusionOutcome_A,Moore et al. (2018)8,8
-TransfusionOutcome_A,Innerhofer et al. (2017)8,8
-TransfusionOutcome_A,Goldstein et al. (2015)8,8
-TransfusionOutcome_A,Yiu et al. (2006)8,8
-TransfusionOutcome_B,Massoumi G et al. (2018)9,7
-TransfusionOutcome_B,French et al. (2003)9,7
-TransfusionOutcome_B,Jost et al. (2022)9,7
-TransfusionOutcome_B,Zhang et al. (2019)9,7
-TransfusionOutcome_B,Morrison et al. (2019)9,7
-TransfusionOutcome_B,Stensballe et al. (2018)9,7
-TransfusionOutcome_B,Sarode et al. (2013)9,7
-ClinicalOutcomes,ClinicalOutcome_A,30
-ClinicalOutcomes,ClinicalOutcome_B,30
-ClinicalOutcomes,ClinicalOutcome_C,30
-ClinicalOutcomes,ClinicalOutcome_D,30
-LabOutcomes,LabOutcome_A,30
-LabOutcomes,LabOutcome_B,30
-LabOutcomes,LabOutcome_C,30
-TransfusionOutcomes,TransfusionOutcome_A,30
-TransfusionOutcomes,TransfusionOutcome_B,30
+ClinicalOutcome_A,Chong Sung  (2006)1,46
+ClinicalOutcome_A,Green  (2020)1,46
+ClinicalOutcome_A,Karkouti  (2021)1,46
+ClinicalOutcome_A,Massoumi G  (2018)1,46
+ClinicalOutcome_A,Smith  (2022)1,46
+ClinicalOutcome_A,Tamura  (2020)1,46
+ClinicalOutcome_A,Tollofsrud  (2003)1,46
+ClinicalOutcome_A,French  (2003)1,46
+ClinicalOutcome_A,Bartelmaos  (2013)1,46
+ClinicalOutcome_A,Bindi  (2013)1,46
+ClinicalOutcome_A,Lance  (2012)1,46
+ClinicalOutcome_A,Pieters  (2015)1,46
+ClinicalOutcome_A,Jost  (2022)1,46
+ClinicalOutcome_A,Sperry  (2018)1,46
+ClinicalOutcome_A,Matsumoto  (2007)1,46
+ClinicalOutcome_A,Etemadreziae  (2007)1,46
+ClinicalOutcome_A,Garrigue  (2017)1,46
+ClinicalOutcome_A,Zhang  (2019)1,46
+ClinicalOutcome_A,Morrison  (2019)1,46
+ClinicalOutcome_A,Stensballe  (2018)1,46
+ClinicalOutcome_A,Goldstein  (2015)1,46
+ClinicalOutcome_A,Muller  (2015)1,46
+ClinicalOutcome_A,Sarode  (2013)1,46
+ClinicalOutcome_B,Massoumi G  (2018)2,22
+ClinicalOutcome_B,Smith  (2022)2,22
+ClinicalOutcome_B,French  (2003)2,22
+ClinicalOutcome_B,Bindi  (2013)2,22
+ClinicalOutcome_B,Moore  (2018)2,22
+ClinicalOutcome_B,Matsumoto  (2007)2,22
+ClinicalOutcome_B,Innerhofer  (2017)2,22
+ClinicalOutcome_B,Zhang  (2019)2,22
+ClinicalOutcome_B,Stensballe  (2018)2,22
+ClinicalOutcome_B,Steiner  (2016)2,22
+ClinicalOutcome_C,Chong Sung  (2006)3,18
+ClinicalOutcome_C,Massoumi G  (2018)3,18
+ClinicalOutcome_C,Tollofsrud  (2003)3,18
+ClinicalOutcome_C,Bindi  (2013)3,18
+ClinicalOutcome_C,Sperry  (2018)3,18
+ClinicalOutcome_C,Morrison  (2019)3,18
+ClinicalOutcome_C,Sarode  (2013)3,18
+ClinicalOutcome_C,Steiner  (2016)3,18
+ClinicalOutcome_C,Yiu  (2006)3,18
+ClinicalOutcome_D,Chong Sung  (2006)4,20
+ClinicalOutcome_D,Demeyere  (2010)4,20
+ClinicalOutcome_D,Green  (2020)4,20
+ClinicalOutcome_D,Tamura  (2020)4,20
+ClinicalOutcome_D,Bartelmaos  (2013)4,20
+ClinicalOutcome_D,Sperry  (2018)4,20
+ClinicalOutcome_D,Carson  (2021)4,20
+ClinicalOutcome_D,Garrigue  (2017)4,20
+ClinicalOutcome_D,Innerhofer  (2017)4,20
+ClinicalOutcome_D,Zhang  (2019)4,20
+LabOutcome_A,Green  (2020)5,40
+LabOutcome_A,Karkouti  (2021)5,40
+LabOutcome_A,Massoumi G  (2018)5,40
+LabOutcome_A,Smith  (2022)5,40
+LabOutcome_A,Tamura  (2020)5,40
+LabOutcome_A,Tollofsrud  (2003)5,40
+LabOutcome_A,French  (2003)5,40
+LabOutcome_A,Bindi  (2013)5,40
+LabOutcome_A,Lance  (2012)5,40
+LabOutcome_A,Pieters  (2015)5,40
+LabOutcome_A,Jost  (2022)5,40
+LabOutcome_A,Moore  (2018)5,40
+LabOutcome_A,Carson  (2021)5,40
+LabOutcome_A,Etemadreziae  (2007)5,40
+LabOutcome_A,Garrigue  (2017)5,40
+LabOutcome_A,Stensballe  (2018)5,40
+LabOutcome_A,Goldstein  (2015)5,40
+LabOutcome_A,Muller  (2015)5,40
+LabOutcome_A,Sarode  (2013)5,40
+LabOutcome_A,Yiu  (2006)5,40
+LabOutcome_B,Karkouti  (2021)6,14
+LabOutcome_B,Massoumi G  (2018)6,14
+LabOutcome_B,Tamura  (2020)6,14
+LabOutcome_B,Jost  (2022)6,14
+LabOutcome_B,Sperry  (2018)6,14
+LabOutcome_B,Etemadreziae  (2007)6,14
+LabOutcome_B,Steiner  (2016)6,14
+LabOutcome_C,Massoumi G  (2018)7,20
+LabOutcome_C,Smith  (2022)7,20
+LabOutcome_C,Bartelmaos  (2013)7,20
+LabOutcome_C,Lance  (2012)7,20
+LabOutcome_C,Pieters  (2015)7,20
+LabOutcome_C,Jost  (2022)7,20
+LabOutcome_C,Moore  (2018)7,20
+LabOutcome_C,Garrigue  (2017)7,20
+LabOutcome_C,Muller  (2015)7,20
+LabOutcome_C,Sarode  (2013)7,20
+TransfusionOutcome_A,Tamura  (2020)8,16
+TransfusionOutcome_A,French  (2003)8,16
+TransfusionOutcome_A,Bartelmaos  (2013)8,16
+TransfusionOutcome_A,Bindi  (2013)8,16
+TransfusionOutcome_A,Moore  (2018)8,16
+TransfusionOutcome_A,Innerhofer  (2017)8,16
+TransfusionOutcome_A,Goldstein  (2015)8,16
+TransfusionOutcome_A,Yiu  (2006)8,16
+TransfusionOutcome_B,Massoumi G  (2018)9,14
+TransfusionOutcome_B,French  (2003)9,14
+TransfusionOutcome_B,Jost  (2022)9,14
+TransfusionOutcome_B,Zhang  (2019)9,14
+TransfusionOutcome_B,Morrison  (2019)9,14
+TransfusionOutcome_B,Stensballe  (2018)9,14
+TransfusionOutcome_B,Sarode  (2013)9,14
+ClinicalOutcomes,ClinicalOutcome_A,60
+ClinicalOutcomes,ClinicalOutcome_B,60
+ClinicalOutcomes,ClinicalOutcome_C,60
+ClinicalOutcomes,ClinicalOutcome_D,60
+LabOutcomes,LabOutcome_A,60
+LabOutcomes,LabOutcome_B,60
+LabOutcomes,LabOutcome_C,60
+TransfusionOutcomes,TransfusionOutcome_A,60
+TransfusionOutcomes,TransfusionOutcome_B,60
+Outcomes,ClinicalOutcomes,120
+Outcomes,LabOutcomes,120
+Outcomes,TransfusionOutcomes,120

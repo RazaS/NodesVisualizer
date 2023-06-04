@@ -4,6 +4,10 @@ library(rvest)
 library(ggplot2)
 library(data.table)
 library(igraph)
+library(visNetwork)
+library(htmlwidgets)
+
+#setwd("C:/Users/Raza/OneDrive - University of Toronto/UK Plasma Systematic Review/Nodes Visualization/NodeVisualizer")
 
 #https://kateto.net/networks-r-igraph
 
@@ -45,7 +49,6 @@ edge.col <- V(net2)$color[edge.start] #set link color to source
 plot(net2, edge.arrow.size=.2, edge.color=edge.col, edge.curved=.1, vertex.size=(V(net2)$weight)*2,vertex.label.cex	=(V(net2)$weight)*1.1*(0.8^((V(net2)$weight)/1.3)), vertex.label.dist=(V(net2)$weight)*0.1, vertex.color=V(net2)$color, asp=0.35) #displaying graph weighed for several things, and aspect ratio of 0.35
 
 
-33333333333333333333333333333333333333333333333
 #sample code for outcomes
 
 outcomes <- read.csv("outcomes.csv", header=T, as.is=T)
@@ -75,7 +78,6 @@ for (i in 3:ncol(final_df)) {
       #print(final_df[j,2])
       
       temp_li <- append(temp_li, final_df[j,2])
-      
       
 
     }
@@ -119,29 +121,99 @@ out_df <- out_df %>% group_by(from) %>% mutate(fromCount=n()) #here I am adding 
 
 linksx <- out_df
 
-linksx <- read.csv("linksx2.csv", header=T, as.is=T) #copying code from above
 
-nodesx <- read.csv("outcomes_nodesx2.csv", header=T, as.is=T) #copying code from above
-nodesx$weight <- 1 #assigning default weight
+#########network generation##############
+
+linksx <- read.csv("new_links4.csv", header=T, as.is=T) #copying code from above
+
+nodesx <- read.csv("new_nodes3.csv", header=T, as.is=T) #copying code from above
 
 nodesx$weight<-linksx$fromCount[match(unlist(nodesx$media),linksx$from)]
 nodesx <- replace(nodesx,is.na(nodesx),1) #transferrign weights from links df to nodes df
 
 net3 <- graph_from_data_frame(d=linksx, vertices=nodesx, directed=F) #creating graph 
+V(net3)$category<-nodesx$category #adding color to graph
 
 V(net3)$color<-nodesx$color #adding color to graph
-V(net3)$weight<-nodesx$weight #adding weights to graph
+#V(net3)$weight<-nodesx$weight #adding weights to graph
+V(net3)$weight<-nodesx$nodeweight #adding weights to graph
 
-edge.start <- ends(net3, es=E(net3), names=F)[,2] #what's happenign is that you are using 'ends' to get the edges of this network,which gives you a 2 column list of pairs of numbers for start and end of the edges. you then pick [,2] which represents the end (you could've picked the start), which you can then use to feed into edge.start for later use in the next line
+V(net3)$font<-nodesx$font #adding font style (bold/plain) to graph
+V(net3)$fontsize<-nodesx$fontsize #adding font size to graph
+V(net3)$fontcolor<-nodesx$fontcolor #adding font size to graph
+V(net3)$edgewidth<-nodesx$edgewidth #adding font size to graph
+V(net3)$edgecolor<-nodesx$edgecolor #adding font size to graph
+
+#V(net3)$edgewidth<-linksx$edgewidth #adding color to graph
+
+#V(net3)$name <- ifelse ((V(net3)$weight > 10),paste0(V(net3)$name, "=", V(net3)$weight),(V(net3)$name)) #add sample weights to the name
+
+
+edge.start <- ends(net3, es=E(net3), names=F)[,1] #what's happenign is that you are using 'ends' to get the edges of this network,which gives you a 2 column list of pairs of numbers for start and end of the edges. you then pick [,2] which represents the end (you could've picked the start which is [,1]), which you can then use to feed into edge.start for later use in the next
 edge.col <- V(net3)$color[edge.start] #set link color to source (edge.start) or target (edge.target)
+
+edge.end <- ends(net3, es=E(net3), names=F)[,2] #what's happenign is that you are using 'ends' to get the edges of this network,which gives you a 2 column list of pairs of numbers for start and end of the edges. you then pick [,2] which represents the end (you could've picked the start), which you can then use to feed into edge.start for later use in the next
+
+edge.width <- V(net3)$edgewidth[edge.end] #set link color to source (edge.start) or target (edge.target)
+
 
 #tail_of(fg, edge.of.interest)$value
 
 #edge.start <- ends(net3, es=E(net3), names=F)[,1]
 #edge.col <- V(net3)$color[edge.target] #set link color to source (edge.start) or target (edge.target)
 
-plot(net3, edge.arrow.size=.2,edge.curved=.1,edge.color=edge.col,vertex.size=2+((V(net3)$weight)/3),vertex.label.cex	=0.3+(2^(-1/(V(net3)$weight))), vertex.label.dist=1, vertex.color=V(net3)$color, asp=0.5) #displaying graph weighed for several things, and aspect ratio of 0.35
+normalize_01 <- function(x) (x - min(x)) / (max(x) - min(x)) + 0.25
 
+
+#####################
+
+pdf("plot50.pdf",20,16)
+
+#pdf("plot34.pdf",10,7)
+
+fr <- layout_with_fr(net3, start.temp=100, niter = 1000 )
+
+
+plot(net3, edge.arrow.size=.2,edge.curved=.1,edge.color=edge.col,vertex.label = V(net3)$medialabel , vertex.size=V(net3)$weight/9,vertex.label.cex	=(V(net3)$fontsize/10)+0.4, vertex.label.dist=1, vertex.label.degree = -pi/2, vertex.color=V(net3)$color, vertex.frame.color =V(net3)$color,  asp=0.7, layout=fr, vertex.label.font=V(net3)$font, vertex.label.family="sans",  vertex.label.color=c(V(net3)$fontcolor), vertex.shape="circle", edge.width=edge.width, edge.curved=1) #displaying graph weighed for several things, and aspect ratio of 0.35
+
+
+
+#this one is for studies included
+#plot(net3, edge.arrow.size=.2,edge.curved=.1,edge.color=edge.col,vertex.size=((2+((V(net3)$weight)/3))/2),vertex.label.cex	=V(net3)$fontsize/5, vertex.label.dist=0, vertex.color=V(net3)$color, vertex.frame.color =V(net3)$color,  asp=0, layout=layout.fruchterman.reingold, vertex.label.font=normalize_01(c(V(net3)$font)), vertex.label.family="sans",  vertex.label.color=c(V(net3)$fontcolor), vertex.shape="circle", edge.width=edge.width, edge.curved=1) #displaying graph weighed for several things, and aspect ratio of 0.35
+
+#saveWidget(visIgraph(g), file = "test.html")
+
+
+dev.off()
+
+
+#############
+
+net3plot <- toVisNetworkData(net3) # convert the graph (or use visIgraph)
+
+
+net3vis <- visNetwork(nodes = net3plot$nodes ,
+                          color = net3plot$nodes$color,
+                          edges = net3plot$edges,
+                          main = "Plasma Systematic Review",
+                          submain = "Interactive Figure",
+                          footer = "") 
+
+
+net3vis <- net3vis %>%
+  visIgraphLayout(layout = "layout_with_kk", # or use igraph's `layout_*`s in quotes
+                  # layout = "layout.norm",  # using saved coords? set this!
+                  # layoutMatrix = coords,   # our previous coords
+                  smooth = FALSE,            # set to F when bogged by bigger graphs
+                  physics = TRUE             # set to F when bogged by bigger graphs
+  ) 
+
+
+net3vis
+###############
+
+#saving default
+#plot(net3, edge.arrow.size=.2,edge.curved=.1,edge.color=edge.col,vertex.size=((2+((V(net3)$weight)/3))/2),vertex.label.cex	=0.5+(555^(-1/(V(net3)$weight))), vertex.label.dist=0.5, vertex.color=V(net3)$color, asp=0.4) #displaying graph weighed for several things, and aspect ratio of 0.35
 
 
 # 
@@ -158,3 +230,13 @@ plot(net3, edge.arrow.size=.2,edge.curved=.1,edge.color=edge.col,vertex.size=2+(
 
 #> which(links3$from ==nodes3$media[39])[1]
 #links3 <- links3 %>% group_by(from) %>% mutate(fromCount=n())
+
+
+
+
+
+
+
+
+
+

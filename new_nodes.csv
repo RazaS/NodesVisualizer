@@ -1,0 +1,137 @@
+﻿media,category,color,font,fontsize,fontcolor,edgewidth,edgecolor,nodeweight
+Bindi et al (2013),Level5,black,2,5,black,0.5,black,0.5
+Massoumi G et al (2018),Level5,black,2,5,black,0.5,black,0.5
+Bartelmaos et al (2013),Level5,black,2,5,black,0.5,black,0.5
+Carson JL et al (2021),Level5,black,2,5,black,0.5,black,0.5
+Demeyere et al (2010),Level5,black,2,5,black,0.5,black,0.5
+Goldstein et al (2015),Level5,black,2,5,black,0.5,black,0.5
+Innerhofer et al (2017),Level5,black,2,5,black,0.5,black,0.5
+Jost et al (2022),Level5,black,2,5,black,0.5,black,0.5
+Moore et al (2018),Level5,black,2,5,black,0.5,black,0.5
+Morrison et al (2019),Level5,black,2,5,black,0.5,black,0.5
+Sarode et al (2013),Level5,black,2,5,black,0.5,black,0.5
+Smith et al (2022),Level5,black,2,5,black,0.5,black,0.5
+Sperry et al (2018),Level5,black,2,5,black,0.5,black,0.5
+Steiner et al (2016),Level5,black,2,5,black,0.5,black,0.5
+Stensballe et al (2018),Level5,black,2,5,black,0.5,black,0.5
+Tollofsrud et al (2003),Level5,black,2,5,black,0.5,black,0.5
+Yiu et al (2006),Level5,black,2,5,black,0.5,black,0.5
+Zhang et al (20219),Level5,black,2,5,black,0.5,black,0.5
+Chong Sung et al (2006),Level5,black,2,5,black,0.5,black,0.5
+French et al (2003),Level5,black,2,5,black,0.5,black,0.5
+Garrigue et al (2017),Level5,black,2,5,black,0.5,black,0.5
+Green et al (2020),Level5,black,2,5,black,0.5,black,0.5
+Pieters et al (2015),Level5,black,2,5,black,0.5,black,0.5
+Karkouti et al (2021),Level5,black,2,5,black,0.5,black,0.5
+Lance et al (2012),Level5,black,2,5,black,0.5,black,0.5
+Tamura et al (2020),Level5,black,2,5,black,0.5,black,0.5
+Etemadreziae et al (2007),Level5,black,2,5,black,0.5,black,0.5
+Muller et al (2015),Level5,black,2,5,black,0.5,black,0.5
+CA Physiological,Level1,black,2,5,black,3,black,94
+CA Adverse events,Level1,black,2,5,black,3,black,29
+CA Resource use,Level1,black,2,5,black,3,black,80
+CA Life impact,Level1,black,2,5,black,3,black,15
+CA Clinical,Level1,black,2,5,black,3,black,22
+CA Death,Level1,black,2,5,black,3,black,14
+D 2 Blood and lymphatic system outcomes,Level2,black,2,5,black,3,black,88
+D 38 Adverse events and effects,Level2,black,2,5,black,3,black,29
+D 22 Respiratory thoracic and mediastinal outcomes,Level2,black,2,5,black,3,black,3
+D 36 Need for further intervention,Level2,black,2,5,black,3,black,65
+D 25 Physical functioning,Level2,black,2,5,black,3,black,2
+D 24 Vascular outcomes,Level2,black,2,5,black,3,black,20
+D 32 Delivery of care,Level2,black,2,5,black,3,black,10
+D 1 Mortality and Survival,Level2,black,2,5,black,3,black,14
+D 34 Economic,Level2,black,2,5,black,3,black,1
+D 17 Nervous system outcomes,Level2,black,2,5,black,3,black,4
+D 11 Immune system outcomes,Level2,black,2,5,black,3,black,1
+D 35 Hospital,Level2,black,2,5,black,3,black,16
+D 30 Global quality of life,Level2,black,2,5,black,3,black,1
+MC Otherlaboratory measurements,Level3,black,2,5,black,3,black,22
+MC Measures of coagulation,Level3,black,2,5,black,3,black,57
+MC Adverse events,Level3,black,2,5,black,3,black,32
+MC Blood usage,Level3,black,2,5,black,3,black,50
+MC Life impact,Level3,black,2,5,black,3,black,2
+MC Bleeding,Level3,black,2,5,black,3,black,19
+MC Other,Level3,black,2,5,black,3,black,4
+MC Mortality,Level3,black,2,5,black,3,black,15
+MC Organ specific treatment effect,Level3,black,2,5,black,3,black,7
+MC Feasibility,Level3,black,2,5,black,3,black,6
+MC Need for additional treatment,Level3,black,2,5,black,3,black,12
+MC INR,Level3,black,2,5,black,3,black,13
+MC Length of stay,Level3,black,2,5,black,3,black,15
+OM Thromboelastography ,Level4,black,2,5,black,3,black,1
+OM ACT,Level4,black,2,5,black,3,black,1
+OM Adverse events,Level4,black,2,5,black,3,black,16
+OM aPTT,Level4,black,2,5,black,3,black,9
+OM arterial blood gas,Level4,black,2,5,black,3,black,4
+OM ATIII,Level4,black,2,5,black,3,black,1
+OM Avoidance of allogeneic transfusion,Level4,black,2,5,black,3,black,1
+OM Barthel Index,Level4,black,2,5,black,3,black,1
+OM Bleeding,Level4,black,2,5,black,3,black,4
+OM Blood loss,Level4,black,2,5,black,3,black,6
+OM Chest tube output,Level4,black,2,5,black,3,black,3
+OM Coagulation factors ,Level4,black,2,5,black,3,black,11
+OM Complement,Level4,black,2,5,black,3,black,1
+OM Complete Blood Count,Level4,black,2,5,black,3,black,10
+OM Consented and received intervention,Level4,black,2,5,black,3,black,1
+OM Ddimers,Level4,black,2,5,black,3,black,2
+OM Death,Level4,black,2,5,black,3,black,3
+OM Donor exposure,Level4,black,2,5,black,3,black,1
+OM Economic impact ,Level4,black,2,5,black,3,black,1
+OM Electrolytes,Level4,black,2,5,black,3,black,1
+OM Endothelial markers,Level4,black,2,5,black,3,black,1
+OM Extended Glasgow Outcome Scale ,Level4,black,2,5,black,3,black,1
+OM Feasibility,Level4,black,2,5,black,3,black,2
+OM FFP,Level4,black,2,5,black,3,black,1
+OM Fibrin monomer,Level4,black,2,5,black,3,black,1
+OM Fibrinogen,Level4,black,2,5,black,3,black,11
+OM Fluids,Level4,black,2,5,black,3,black,5
+OM General,Level4,black,2,5,black,3,black,1
+OM Glascow Coma Scale,Level4,black,2,5,black,3,black,1
+OM HCT,Level4,black,2,5,black,3,black,2
+OM Hemostatic agents,Level4,black,2,5,black,3,black,7
+OM Hemostatic efficacy,Level4,black,2,5,black,3,black,3
+OM in vivo thrombin generation ,Level4,black,2,5,black,3,black,1
+OM Inflammation markers,Level4,black,2,5,black,3,black,1
+OM INR,Level4,black,2,5,black,3,black,14
+OM Intracerebral hemorrhage,Level4,black,2,5,black,3,black,2
+OM Lenght of hospital stay,Level4,black,2,5,black,3,black,1
+OM LOS Hospital,Level4,black,2,5,black,3,black,6
+OM LOS ICU,Level4,black,2,5,black,3,black,8
+OM LOS PICU,Level4,black,2,5,black,3,black,1
+OM Lung injury,Level4,black,2,5,black,3,black,1
+OM Major bleeding,Level4,black,2,5,black,3,black,2
+OM Mortality,Level4,black,2,5,black,3,black,9
+OM Mortality ,Level4,black,2,5,black,3,black,1
+OM mRS score,Level4,black,2,5,black,3,black,1
+OM National Institute of Health Stroke Scale,Level4,black,2,5,black,3,black,1
+OM Need for massive transfusion,Level4,black,2,5,black,3,black,2
+OM Other ,Level4,black,2,5,black,3,black,1
+OM Plasma,Level4,black,2,5,black,3,black,14
+OM Plasma thromboplastin time (PTT),Level4,black,2,5,black,3,black,1
+OM plasma to crystalloid ratio,Level4,black,2,5,black,3,black,1
+OM Platelets,Level4,black,2,5,black,3,black,13
+OM Protein C and S,Level4,black,2,5,black,3,black,2
+OM Prothrombin,Level4,black,2,5,black,3,black,1
+OM Protocol adherence,Level4,black,2,5,black,3,black,1
+OM PT,Level4,black,2,5,black,3,black,6
+OM PTT,Level4,black,2,5,black,3,black,3
+OM Pulmonary oedema,Level4,black,2,5,black,3,black,1
+OM Quality of life,Level4,black,2,5,black,3,black,1
+OM RBC,Level4,black,2,5,black,3,black,16
+OM renal failure,Level4,black,2,5,black,3,black,1
+OM Reoperation,Level4,black,2,5,black,3,black,4
+OM Reptilase time,Level4,black,2,5,black,3,black,1
+OM Reversal of coagulopathy,Level4,black,2,5,black,3,black,1
+OM safety,Level4,black,2,5,black,3,black,1
+OM Survival ,Level4,black,2,5,black,3,black,1
+OM Thrombin generation,Level4,black,2,5,black,3,black,1
+OM Time from intervention to chest closure,Level4,black,2,5,black,3,black,1
+OM Time to intervention,Level4,black,2,5,black,3,black,1
+OM Time to RBCtransfusion,Level4,black,2,5,black,3,black,1
+OM Time to transfuion,Level4,black,2,5,black,3,black,1
+OM traceability ,Level4,black,2,5,black,3,black,1
+OM Transfusion reaction,Level4,black,2,5,black,3,black,6
+OM Urgent surgery,Level4,black,2,5,black,3,black,1
+OM Viscoelastic tests,Level4,black,2,5,black,3,black,4
+OM Whole Blood,Level4,black,2,5,black,3,black,2

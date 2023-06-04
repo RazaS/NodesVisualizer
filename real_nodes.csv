@@ -1,0 +1,222 @@
+media,category,color,font,fontsize,fontcolor,edgewidth,edgecolor
+Clinical events,Level3,coral1,2,4,coral4,2,coral4
+Operative complications,Level3,coral1,2,3,coral4,2,coral4
+Transfusion reactions,Level3,coral1,2,4,coral4,2,coral4
+Need for operation,Level3,coral1,2,4,coral4,2,coral4
+Operative,Level3,coral2,2,5,coral4,2,coral4
+Hemostasis,Level3,coral2,2,4,coral4,2,coral4
+Anticoagulant,Level3,coral2,2,4,coral4,2,coral4
+Intracranial,Level3,coral2,2,4,coral4,2,coral4
+Brain,Level3,coral3,2,4,coral4,2,coral4
+Liver,Level3,coral3,2,4,coral4,2,coral4
+Other Mortality,Level3,darkgray,2,4,black,2,black
+Time-Specific,Level3,darkgray,2,4,black,2,black
+Timeliness,Level3,slateblue1,2,4,slateblue4,2,slateblue4
+Feasibility,Level3,slateblue1,2,4,slateblue4,2,slateblue4
+Useability ,Level3,slateblue1,2,4,slateblue4,2,slateblue4
+Clinical events Scale,Level3,slateblue1,2,4,slateblue4,2,slateblue4
+Factor concentrations,Level3,chocolate2,2,4,chocolate4,2,chocolate4
+Clotting times,Level3,chocolate2,2,5,chocolate4,2,chocolate4
+Viscoelastic tests,Level3,chocolate2,2,4,chocolate4,2,chocolate4
+Other,Level3,chocolate2,2,4,chocolate4,2,chocolate4
+Complete blood counts,Level3,chocolate1,2,5,chocolate4,2,chocolate4
+Lactate,Level3,chocolate1,2,4,chocolate4,2,chocolate4
+Other measures,Level3,chocolate1,2,4,chocolate4,2,chocolate4
+Additonal medication,Level3,burlywood3,2,4,darkgoldenrod4,2,darkgoldenrod4
+Hemostatic agents,Level3,burlywood3,2,4,darkgoldenrod4,2,darkgoldenrod4
+Units,Level3,burlywood2,2,4,darkgoldenrod4,2,darkgoldenrod4
+Volume,Level3,burlywood2,2,4,darkgoldenrod4,2,darkgoldenrod4
+Misc,Level3,burlywood2,2,4,darkgoldenrod4,2,darkgoldenrod4
+Massive Hemorrhage Protocol,Level3,burlywood2,2,3,darkgoldenrod4,2,darkgoldenrod4
+Cost,Level3,burlywood3,2,4,darkgoldenrod4,2,darkgoldenrod4
+Length of stay,Level3,burlywood1,2,4,darkgoldenrod4,2,darkgoldenrod4
+Additional Intervention,Level2,burlywood3,2,5,darkgoldenrod4,3,darkgoldenrod4
+Adverse events,Level2,coral1,2,7,coral4,3,coral4
+Bleeding,Level2,coral2,2,7,coral4,3,coral4
+Blood usage,Level2,burlywood2,2,7,darkgoldenrod4,3,darkgoldenrod4
+Coagulation measures,Level2,chocolate2,2,5,chocolate4,3,chocolate4
+Delivery of care,Level2,slateblue1,2,5,slateblue4,3,slateblue4
+Economic,Level2,burlywood3,2,6,darkgoldenrod4,3,darkgoldenrod4
+Functioning,Level2,slateblue1,2,5,slateblue4,3,slateblue4
+Hospital,Level2,burlywood1,2,7,darkgoldenrod4,3,darkgoldenrod4
+Laboratory measures,Level2,chocolate1,2,5,chocolate4,3,chocolate4
+Mortality,Level2,gray,2,7,black,3,black
+Organ effects,Level2,coral3,2,7,coral4,3,coral4
+Clinical,Level1,coral,2,10,black,4,black
+Life Impact,Level1,slateblue,2,8,black,4,black
+Physiological,Level1,chocolate,2,10,black,4,black
+Resource use,Level1,burlywood,2,9,black,4,black
+Bartelmaos (2013)1,Study,gray70,1,2.5,gray14,1,gray30
+Bartelmaos (2013)2,Study,gray70,1,2.5,gray14,1,gray30
+Bartelmaos (2013)3,Study,gray70,1,2.5,gray14,1,gray30
+Bartelmaos (2013)4,Study,gray70,1,2.5,gray14,1,gray30
+Bartelmaos (2013)5,Study,gray70,1,2.5,gray14,1,gray30
+Bindi (2013)1,Study,gray70,1,2.5,gray14,1,gray30
+Bindi (2013)2,Study,gray70,1,2.5,gray14,1,gray30
+Bindi (2013)3,Study,gray70,1,2.5,gray14,1,gray30
+Bindi (2013)4,Study,gray70,1,2.5,gray14,1,gray30
+Carson JL et al (2021)1,Study,gray70,1,2.5,gray14,1,gray30
+Carson JL et al (2021)2,Study,gray70,1,2.5,gray14,1,gray30
+Carson JL et al (2021)3,Study,gray70,1,2.5,gray14,1,gray30
+Carson JL et al (2021)4,Study,gray70,1,2.5,gray14,1,gray30
+Carson JL et al (2021)5,Study,gray70,1,2.5,gray14,1,gray30
+Carson JL et al (2021)6,Study,gray70,1,2.5,gray14,1,gray30
+Carson JL et al (2021)7,Study,gray70,1,2.5,gray14,1,gray30
+Chong Sung (2006)1,Study,gray70,1,2.5,gray14,1,gray30
+Chong Sung (2006)2,Study,gray70,1,2.5,gray14,1,gray30
+Chong Sung (2006)3,Study,gray70,1,2.5,gray14,1,gray30
+Chong Sung (2006)4,Study,gray70,1,2.5,gray14,1,gray30
+Chong Sung (2006)5,Study,gray70,1,2.5,gray14,1,gray30
+Chong Sung (2006)6,Study,gray70,1,2.5,gray14,1,gray30
+Chong Sung (2006)7,Study,gray70,1,2.5,gray14,1,gray30
+Chong Sung (2006)8,Study,gray70,1,2.5,gray14,1,gray30
+Demeyere et al (2010)1,Study,gray70,1,2.5,gray14,1,gray30
+Demeyere et al (2010)2,Study,gray70,1,2.5,gray14,1,gray30
+Demeyere et al (2010)3,Study,gray70,1,2.5,gray14,1,gray30
+Demeyere et al (2010)4,Study,gray70,1,2.5,gray14,1,gray30
+Demeyere et al (2010)5,Study,gray70,1,2.5,gray14,1,gray30
+Etemadreziae (2007)1,Study,gray70,1,2.5,gray14,1,gray30
+Etemadreziae (2007)2,Study,gray70,1,2.5,gray14,1,gray30
+Etemadreziae (2007)3,Study,gray70,1,2.5,gray14,1,gray30
+Etemadreziae (2007)4,Study,gray70,1,2.5,gray14,1,gray30
+Etemadreziae (2007)5,Study,gray70,1,2.5,gray14,1,gray30
+Etemadreziae et al (2007)6,Study,gray70,1,2.5,gray14,1,gray30
+French (2003)1,Study,gray70,1,2.5,gray14,1,gray30
+French (2003)2,Study,gray70,1,2.5,gray14,1,gray30
+French (2003)3,Study,gray70,1,2.5,gray14,1,gray30
+Garrigue et al (2017)1,Study,gray70,1,2.5,gray14,1,gray30
+Garrigue et al (2017)2,Study,gray70,1,2.5,gray14,1,gray30
+Garrigue et al (2017)3,Study,gray70,1,2.5,gray14,1,gray30
+Garrigue et al (2017)4,Study,gray70,1,2.5,gray14,1,gray30
+Garrigue et al (2017)5,Study,gray70,1,2.5,gray14,1,gray30
+Garrigue et al (2017)6,Study,gray70,1,2.5,gray14,1,gray30
+Garrigue et al (2017)7,Study,gray70,1,2.5,gray14,1,gray30
+Garrigue et al (2017)8,Study,gray70,1,2.5,gray14,1,gray30
+Goldstein (2015)1,Study,gray70,1,2.5,gray14,1,gray30
+Goldstein (2015)2,Study,gray70,1,2.5,gray14,1,gray30
+Goldstein (2015)3,Study,gray70,1,2.5,gray14,1,gray30
+Goldstein (2015)4,Study,gray70,1,2.5,gray14,1,gray30
+Goldstein (2015)5,Study,gray70,1,2.5,gray14,1,gray30
+Goldstein (2015)6,Study,gray70,1,2.5,gray14,1,gray30
+Green et al (2020)1,Study,gray70,1,2.5,gray14,1,gray30
+Green et al (2020)2,Study,gray70,1,2.5,gray14,1,gray30
+Green et al (2020)3,Study,gray70,1,2.5,gray14,1,gray30
+Green et al (2020)4,Study,gray70,1,2.5,gray14,1,gray30
+Green et al (2020)5,Study,gray70,1,2.5,gray14,1,gray30
+Green et al (2020)6,Study,gray70,1,2.5,gray14,1,gray30
+Green et al (2020)7,Study,gray70,1,2.5,gray14,1,gray30
+Innerhofer (2017)1,Study,gray70,1,2.5,gray14,1,gray30
+Innerhofer (2017)2,Study,gray70,1,2.5,gray14,1,gray30
+Innerhofer (2017)3,Study,gray70,1,2.5,gray14,1,gray30
+Innerhofer (2017)4,Study,gray70,1,2.5,gray14,1,gray30
+Innerhofer (2017)5,Study,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)1,Study,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)2,Study,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)3,Study,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)4,Study,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)5,Study,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)6,,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)7,,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)8,,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)9,,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)10,,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)11,,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)12,,gray70,1,2.5,gray14,1,gray30
+Jost et al (2022)13,,gray70,1,2.5,gray14,1,gray30
+Karkouti et al (2021)1,,gray70,1,2.5,gray14,1,gray30
+Karkouti et al (2021)2,,gray70,1,2.5,gray14,1,gray30
+Karkouti et al (2021)3,,gray70,1,2.5,gray14,1,gray30
+Karkouti et al (2021)4,,gray70,1,2.5,gray14,1,gray30
+Karkouti et al (2021)5,,gray70,1,2.5,gray14,1,gray30
+Lance (2012)1,,gray70,1,2.5,gray14,1,gray30
+Lance (2012)2,,gray70,1,2.5,gray14,1,gray30
+Lance (2012)3,,gray70,1,2.5,gray14,1,gray30
+Massoumi G et al (2018)1,,gray70,1,2.5,gray14,1,gray30
+Massoumi G et al (2018)2,,gray70,1,2.5,gray14,1,gray30
+Massoumi G et al (2018)3,,gray70,1,2.5,gray14,1,gray30
+Matsumoto (2007)1,,gray70,1,2.5,gray14,1,gray30
+Matsumoto (2007)2,,gray70,1,2.5,gray14,1,gray30
+Matsumoto (2007)3,,gray70,1,2.5,gray14,1,gray30
+Matsumoto (2007)4,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)1,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)2,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)3,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)4,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)5,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)6,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)7,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)8,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)9,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)10,,gray70,1,2.5,gray14,1,gray30
+Moore (2018)11,,gray70,1,2.5,gray14,1,gray30
+Morrison et al (2019)1,,gray70,1,2.5,gray14,1,gray30
+Morrison et al (2019)2,,gray70,1,2.5,gray14,1,gray30
+Morrison et al (2019)3,,gray70,1,2.5,gray14,1,gray30
+Morrison et al (2019)4,,gray70,1,2.5,gray14,1,gray30
+Morrison et al (2019)5,,gray70,1,2.5,gray14,1,gray30
+Morrison et al (2019)6,,gray70,1,2.5,gray14,1,gray30
+Morrison et al (2019)7,,gray70,1,2.5,gray14,1,gray30
+Muller (2015)1,,gray70,1,2.5,gray14,1,gray30
+Muller (2015)2,,gray70,1,2.5,gray14,1,gray30
+Muller (2015)3,,gray70,1,2.5,gray14,1,gray30
+Muller (2015)4,,gray70,1,2.5,gray14,1,gray30
+Muller (2015)5,,gray70,1,2.5,gray14,1,gray30
+Pieters (2015)1,,gray70,1,2.5,gray14,1,gray30
+Pieters (2015)2,,gray70,1,2.5,gray14,1,gray30
+Pieters (2015)3,,gray70,1,2.5,gray14,1,gray30
+Pieters (2015)4,,gray70,1,2.5,gray14,1,gray30
+Pieters (2015)5,,gray70,1,2.5,gray14,1,gray30
+Pieters (2015)6,,gray70,1,2.5,gray14,1,gray30
+Pieters (2015)7,,gray70,1,2.5,gray14,1,gray30
+Sarode (2013)1,,gray70,1,2.5,gray14,1,gray30
+Sarode (2013)2,,gray70,1,2.5,gray14,1,gray30
+Sarode (2013)3,,gray70,1,2.5,gray14,1,gray30
+Sarode (2013)4,,gray70,1,2.5,gray14,1,gray30
+Sarode (2013)5,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)1,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)2,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)3,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)4,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)5,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)6,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)7,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)8,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)9,,gray70,1,2.5,gray14,1,gray30
+Smith et al (2022)10,,gray70,1,2.5,gray14,1,gray30
+Sperry et al (2018)1,,gray70,1,2.5,gray14,1,gray30
+Sperry et al (2018)2,,gray70,1,2.5,gray14,1,gray30
+Sperry et al (2018)3,,gray70,1,2.5,gray14,1,gray30
+Sperry et al (2018)4,,gray70,1,2.5,gray14,1,gray30
+Sperry et al (2018)5,,gray70,1,2.5,gray14,1,gray30
+Sperry et al (2018)6,,gray70,1,2.5,gray14,1,gray30
+Steiner (2016)1,,gray70,1,2.5,gray14,1,gray30
+Steiner (2016)2,,gray70,1,2.5,gray14,1,gray30
+Steiner (2016)3,,gray70,1,2.5,gray14,1,gray30
+Steiner (2016)4,,gray70,1,2.5,gray14,1,gray30
+Steiner (2016)5,,gray70,1,2.5,gray14,1,gray30
+Steiner (2016)6,,gray70,1,2.5,gray14,1,gray30
+Stensballe et al (2018)1,,gray70,1,2.5,gray14,1,gray30
+Stensballe et al (2018)2,,gray70,1,2.5,gray14,1,gray30
+Stensballe et al (2018)3,,gray70,1,2.5,gray14,1,gray30
+Stensballe et al (2018)4,,gray70,1,2.5,gray14,1,gray30
+Stensballe et al (2018)5,,gray70,1,2.5,gray14,1,gray30
+Stensballe et al (2018)6,,gray70,1,2.5,gray14,1,gray30
+Stensballe et al (2018)7,,gray70,1,2.5,gray14,1,gray30
+Stensballe et al (2018)8,,gray70,1,2.5,gray14,1,gray30
+Tamura et al (2020)1,,gray70,1,2.5,gray14,1,gray30
+Tamura et al (2020)2,,gray70,1,2.5,gray14,1,gray30
+Tamura et al (2020)3,,gray70,1,2.5,gray14,1,gray30
+Tamura et al (2020)4,,gray70,1,2.5,gray14,1,gray30
+Tollofsrud (2003)1,,gray70,1,2.5,gray14,1,gray30
+Tollofsrud (2003)2,,gray70,1,2.5,gray14,1,gray30
+Tollofsrud (2003)3,,gray70,1,2.5,gray14,1,gray30
+Tollofsrud (2003)4,,gray70,1,2.5,gray14,1,gray30
+Tollofsrud (2003)5,,gray70,1,2.5,gray14,1,gray30
+Yiu (2006)1,,gray70,1,2.5,gray14,1,gray30
+Yiu (2006)2,,gray70,1,2.5,gray14,1,gray30
+Yiu (2006)3,,gray70,1,2.5,gray14,1,gray30
+Yiu (2006)4,,gray70,1,2.5,gray14,1,gray30
+Zhang et al (20219)1,,gray70,1,2.5,gray14,1,gray30
+Zhang et al (20219)2,,gray70,1,2.5,gray14,1,gray30
+Zhang et al (20219)3,,gray70,1,2.5,gray14,1,gray30
+Zhang et al (20219)4,,gray70,1,2.5,gray14,1,gray30

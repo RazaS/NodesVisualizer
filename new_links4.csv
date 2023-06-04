@@ -1,0 +1,113 @@
+﻿from,to,fromCount,edgewidth
+Measures of coagulation (MC),ACT (OM),1,1
+Need for further intervention (D 36),Adverse events (D36) (MC),1,1
+Adverse events and effects (D 38),Adverse events (D38) (MC),1,1
+Adverse events (D38) (MC),Adverse events (OM),1,1
+Adverse events (CA),Adverse events and effects (D 38),1,1
+Measures of coagulation (MC),aPTT (OM),1,1
+Other laboratory measurements (D24) (MC),arterial blood gas (OM),1,1
+Measures of coagulation (MC),ATIII (OM),1,1
+Blood usage (MC),Avoidance of allogeneic transfusion (OM),1,1
+Life impact (D25) (MC),Barthel Index (OM),1,1
+Blood and lymphatic system outcomes (D 2),Bleeding (D2) (MC),1,1
+Vascular outcomes (clinical) (D 24),Bleeding (D24) (MC),1,1
+Bleeding (D24) (MC),Bleeding (OM),1,1
+Physiological (CA),Blood and lymphatic system outcomes (D 2),1,1
+Bleeding (D24) (MC),Blood loss (OM),1,1
+Need for further intervention (D 36),Blood usage (MC),1,1
+Bleeding (D24) (MC),Chest tube output (OM),1,1
+Measures of coagulation (MC),Coagulation factors (OM),1,1
+Other laboratory measurements (D24) (MC),Complement (OM),1,1
+Other laboratory measurements (D24) (MC),Complete Blood Count (OM),1,1
+Other (D32) (MC),Consented and received intervention (OM),1,1
+Measures of coagulation (MC),Ddimers (OM),1,1
+Mortality (MC),Death (OM),1,1
+Life impact (CA),Delivery of care (D 32),1,1
+Other (D32) (MC),Donor exposure (OM),1,1
+Resource use (CA),Economic (D 34),1,1
+Other (D34) (MC),Economic impact (OM),1,1
+Other laboratory measurements (D24) (MC),Electrolytes (OM),1,1
+Other laboratory measurements (D24) (MC),Endothelial markers (OM),1,1
+Organ specific treatment effect (D17) (MC),Extended Glasgow Outcome Scale (OM),1,1
+Delivery of care (D 32),Feasibility (MC),1,1
+Feasibility (MC),Feasibility (OM),1,1
+Blood usage (MC),FFP (OM),1,1
+Measures of coagulation (MC),Fibrin monomer (OM),1,1
+Measures of coagulation (MC),Fibrinogen (OM),1,1
+Need for additional treatment (MC),Fluids (OM),1,1
+Adverse events (D36) (MC),General (OM),1,1
+Organ specific treatment effect (D17) (MC),Glascow Coma Scale (OM),1,1
+Life impact (CA),Global quality of life (D 30),1,1
+Other laboratory measurements (D24) (MC),HCT (OM),1,1
+Need for additional treatment (MC),Hemostatic agents (OM),1,1
+Bleeding (D2) (MC),Hemostatic efficacy (OM),1,1
+Resource use (CA),Hospital (D 35),1,1
+Physiological (CA),Immune system outcomes (D 11),1,1
+Other laboratory measurements (D24) (MC),in vivo thrombin generation (OM),1,1
+Other laboratory measurements (D11) (MC),Inflammation markers (OM),1,1
+Measures of coagulation (MC),INR (OM),1,1
+Organ specific treatment effect (D17) (MC),Intracerebral hemorrhage (OM),1,1
+Length of stay (MC),Lenght of hospital stay (OM),1,1
+Hospital (D 35),Length of stay (MC),1,1
+Physical functioning (D 25),Life impact (D25) (MC),1,1
+Global quality of life (D 30),Life impact (D30) (MC),1,1
+Length of stay (MC),LOS Hospital (OM),1,1
+Length of stay (MC),LOS ICU (OM),1,1
+Length of stay (MC),LOS PICU (OM),1,1
+Adverse events (D38) (MC),Lung injury (OM),1,1
+Bleeding (D24) (MC),Major bleeding (OM),1,1
+Blood and lymphatic system outcomes (D 2),Measures of coagulation (MC),1,1
+Mortality and Survival (D 1),Mortality (MC),1,1
+Mortality (MC),Mortality (OM),1,1
+Mortality (MC),Mortality (OM),1,1
+Death (CA),Mortality and Survival (D 1),1,1
+Organ specific treatment effect (D17) (MC),mRS score (OM),1,1
+Organ specific treatment effect (D17) (MC),National Institute of Health Stroke Scale (OM),1,1
+Need for further intervention (D 36),Need for additional treatment (MC),1,1
+Resource use (CA),Need for further intervention (D 36),1,1
+Blood usage (MC),Need for massive transfusion (OM),1,1
+Clinical (CA),Nervous system outcomes (D 17),1,1
+Nervous system outcomes (D 17),Organ specific treatment effect (D17) (MC),1,1
+Vascular outcomes (clinical) (D 24),Organ specific treatment effect (D24) (MC),1,1
+Physical functioning (D 25),Organ specific treatment effect (D25) (MC),1,1
+Delivery of care (D 32),Organ specific treatment effect (D32) (MC),1,1
+Delivery of care (D 32),Other (D32) (MC),1,1
+Economic (D 34),Other (D34) (MC),1,1
+Measures of coagulation (MC),Other (OM),1,1
+Immune system outcomes (D 11),Other laboratory measurements (D11) (MC),1,1
+Blood and lymphatic system outcomes (D 2),Other laboratory measurements (D2) (MC),1,1
+Respiratory thoracic and mediastinal outcomes (D 22),Other laboratory measurements (D22) (MC),1,1
+Vascular outcomes (physiological) (D 24),Other laboratory measurements (D24) (MC),1,1
+Life impact (CA),Physical functioning (D 25),1,1
+Blood usage (MC),Plasma (OM),1,1
+Measures of coagulation (MC),Plasma thromboplastin time (PTT) (OM),1,1
+Blood usage (MC),plasma to crystalloid ratio (OM),1,1
+Blood usage (MC),Platelets (OM),1,1
+Measures of coagulation (MC),Protein C and S (OM),1,1
+Measures of coagulation (MC),Prothrombin (OM),1,1
+Other (D32) (MC),Protocol adherence (OM),1,1
+Measures of coagulation (MC),PT (OM),1,1
+Measures of coagulation (MC),PTT (OM),1,1
+Adverse events (D38) (MC),Pulmonary oedema (OM),1,1
+Life impact (D30) (MC),Quality of life (OM),1,1
+Blood usage (MC),RBC (OM),1,1
+Adverse events (D38) (MC),renal failure (OM),1,1
+Adverse events (D38) (MC),Reoperation (OM),1,1
+Other laboratory measurements (D24) (MC),Reptilase time (OM),1,1
+Physiological (CA),Respiratory thoracic and mediastinal outcomes (D 22),1,1
+Measures of coagulation (MC),Reversal of coagulopathy (OM),1,1
+Adverse events (D38) (MC),safety (OM),1,1
+Mortality (MC),Survival (OM),1,1
+Measures of coagulation (MC),Thrombin generation (OM),1,1
+Other laboratory measurements (D24) (MC),Thromboelastography (OM),1,1
+Organ specific treatment effect (D32) (MC),Time from intervention to chest closure (OM),1,1
+Feasibility (MC),Time to intervention (OM),1,1
+Feasibility (MC),Time to RBCtransfusion (OM),1,1
+Feasibility (MC),Time to transfuion (OM),1,1
+Feasibility (MC),Traceability (OM),1,1
+Adverse events (D38) (MC),Transfusion reaction (OM),1,1
+Adverse events (D36) (MC),Urgent surgery (OM),1,1
+Clinical (CA),Vascular outcomes (clinical) (D 24),1,1
+Physiological (CA),Vascular outcomes (physiological) (D 24),1,1
+Measures of coagulation (MC),Viscoelastic tests (OM),1,1
+Blood usage (MC),Whole Blood (OM),1,1

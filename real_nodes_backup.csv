@@ -1,0 +1,223 @@
+media,category,color
+Clinical events,Level3,green
+Operative complications,Level3,green
+Transfusion reactions,Level3,green
+Need for operation,Level3,green
+Operative,Level3,green
+Hemostasis,Level3,green
+Anticoagulant,Level3,green
+Intracranial,Level3,green
+Brain,Level3,green
+Liver,Level3,green
+Other Mortality,Level3,darkgray
+Time-Specific,Level3,darkgray
+Timeliness,Level3,green
+Feasibility,Level3,green
+Useability ,Level3,green
+Clinical events Scale,Level3,green
+Factor concentrations,Level3,green
+Clotting times,Level3,green
+Viscoelastic tests,Level3,green
+Other,Level3,green
+Complete blood counts,Level3,green
+Lactate,Level3,green
+Other measures,Level3,green
+Additonal medication,Level3,green
+Hemostatic agents,Level3,green
+Units,Level3,green
+Volume,Level3,green
+Misc,Level3,green
+Massive Hemorrhage Protocol,Level3,green
+Cost,Level3,green
+Length of stay,Level3,green
+Additional Intervention,Level2,burlywood3
+Adverse events,Level2,coral1
+Bleeding,Level2,coral2
+Blood usage,Level2,burlywood2
+Coagulation measures,Level2,chocolate2
+Delivery of care,Level2,aquamarine1
+Economic,Level2,burlywood3
+Functioning,Level2,aquamarine2
+Hospital,Level2,burlywood1
+Laboratory measures,Level2,chocolate1
+Mortality,Level2,gray
+Organ effects,Level2,coral3
+Clinical,Level1,coral
+Death,Level1,darkgray
+Life Impact,Level1,aquamarine
+Physiological,Level1,chocolate
+Resource use,Level1,burlywood
+Bartelmaos (2013)1,Study,lightgray
+Bartelmaos (2013)2,Study,lightgray
+Bartelmaos (2013)3,Study,lightgray
+Bartelmaos (2013)4,Study,lightgray
+Bartelmaos (2013)5,Study,lightgray
+Bindi (2013)1,Study,lightgray
+Bindi (2013)2,Study,lightgray
+Bindi (2013)3,Study,lightgray
+Bindi (2013)4,Study,lightgray
+Carson JL et al (2021)1,Study,lightgray
+Carson JL et al (2021)2,Study,lightgray
+Carson JL et al (2021)3,Study,lightgray
+Carson JL et al (2021)4,Study,lightgray
+Carson JL et al (2021)5,Study,lightgray
+Carson JL et al (2021)6,Study,lightgray
+Carson JL et al (2021)7,Study,lightgray
+Chong Sung (2006)1,Study,lightgray
+Chong Sung (2006)2,Study,lightgray
+Chong Sung (2006)3,Study,lightgray
+Chong Sung (2006)4,Study,lightgray
+Chong Sung (2006)5,Study,lightgray
+Chong Sung (2006)6,Study,lightgray
+Chong Sung (2006)7,Study,lightgray
+Chong Sung (2006)8,Study,lightgray
+Demeyere et al (2010)1,Study,lightgray
+Demeyere et al (2010)2,Study,lightgray
+Demeyere et al (2010)3,Study,lightgray
+Demeyere et al (2010)4,Study,lightgray
+Demeyere et al (2010)5,Study,lightgray
+Etemadreziae (2007)1,Study,lightgray
+Etemadreziae (2007)2,Study,lightgray
+Etemadreziae (2007)3,Study,lightgray
+Etemadreziae (2007)4,Study,lightgray
+Etemadreziae (2007)5,Study,lightgray
+Etemadreziae et al (2007)6,Study,lightgray
+French (2003)1,Study,lightgray
+French (2003)2,Study,lightgray
+French (2003)3,Study,lightgray
+Garrigue et al (2017)1,Study,lightgray
+Garrigue et al (2017)2,Study,lightgray
+Garrigue et al (2017)3,Study,lightgray
+Garrigue et al (2017)4,Study,lightgray
+Garrigue et al (2017)5,Study,lightgray
+Garrigue et al (2017)6,Study,lightgray
+Garrigue et al (2017)7,Study,lightgray
+Garrigue et al (2017)8,Study,lightgray
+Goldstein (2015)1,Study,lightgray
+Goldstein (2015)2,Study,lightgray
+Goldstein (2015)3,Study,lightgray
+Goldstein (2015)4,Study,lightgray
+Goldstein (2015)5,Study,lightgray
+Goldstein (2015)6,Study,lightgray
+Green et al (2020)1,Study,lightgray
+Green et al (2020)2,Study,lightgray
+Green et al (2020)3,Study,lightgray
+Green et al (2020)4,Study,lightgray
+Green et al (2020)5,Study,lightgray
+Green et al (2020)6,Study,lightgray
+Green et al (2020)7,Study,lightgray
+Innerhofer (2017)1,Study,lightgray
+Innerhofer (2017)2,Study,lightgray
+Innerhofer (2017)3,Study,lightgray
+Innerhofer (2017)4,Study,lightgray
+Innerhofer (2017)5,Study,lightgray
+Jost et al (2022)1,Study,lightgray
+Jost et al (2022)2,Study,lightgray
+Jost et al (2022)3,Study,lightgray
+Jost et al (2022)4,Study,lightgray
+Jost et al (2022)5,Study,lightgray
+Jost et al (2022)6,,lightgray
+Jost et al (2022)7,,lightgray
+Jost et al (2022)8,,lightgray
+Jost et al (2022)9,,lightgray
+Jost et al (2022)10,,lightgray
+Jost et al (2022)11,,lightgray
+Jost et al (2022)12,,lightgray
+Jost et al (2022)13,,lightgray
+Karkouti et al (2021)1,,lightgray
+Karkouti et al (2021)2,,lightgray
+Karkouti et al (2021)3,,lightgray
+Karkouti et al (2021)4,,lightgray
+Karkouti et al (2021)5,,lightgray
+Lance (2012)1,,lightgray
+Lance (2012)2,,lightgray
+Lance (2012)3,,lightgray
+Massoumi G et al (2018)1,,lightgray
+Massoumi G et al (2018)2,,lightgray
+Massoumi G et al (2018)3,,lightgray
+Matsumoto (2007)1,,lightgray
+Matsumoto (2007)2,,lightgray
+Matsumoto (2007)3,,lightgray
+Matsumoto (2007)4,,lightgray
+Moore (2018)1,,lightgray
+Moore (2018)2,,lightgray
+Moore (2018)3,,lightgray
+Moore (2018)4,,lightgray
+Moore (2018)5,,lightgray
+Moore (2018)6,,lightgray
+Moore (2018)7,,lightgray
+Moore (2018)8,,lightgray
+Moore (2018)9,,lightgray
+Moore (2018)10,,lightgray
+Moore (2018)11,,lightgray
+Morrison et al (2019)1,,lightgray
+Morrison et al (2019)2,,lightgray
+Morrison et al (2019)3,,lightgray
+Morrison et al (2019)4,,lightgray
+Morrison et al (2019)5,,lightgray
+Morrison et al (2019)6,,lightgray
+Morrison et al (2019)7,,lightgray
+Muller (2015)1,,lightgray
+Muller (2015)2,,lightgray
+Muller (2015)3,,lightgray
+Muller (2015)4,,lightgray
+Muller (2015)5,,lightgray
+Pieters (2015)1,,lightgray
+Pieters (2015)2,,lightgray
+Pieters (2015)3,,lightgray
+Pieters (2015)4,,lightgray
+Pieters (2015)5,,lightgray
+Pieters (2015)6,,lightgray
+Pieters (2015)7,,lightgray
+Sarode (2013)1,,lightgray
+Sarode (2013)2,,lightgray
+Sarode (2013)3,,lightgray
+Sarode (2013)4,,lightgray
+Sarode (2013)5,,lightgray
+Smith et al (2022)1,,lightgray
+Smith et al (2022)2,,lightgray
+Smith et al (2022)3,,lightgray
+Smith et al (2022)4,,lightgray
+Smith et al (2022)5,,lightgray
+Smith et al (2022)6,,lightgray
+Smith et al (2022)7,,lightgray
+Smith et al (2022)8,,lightgray
+Smith et al (2022)9,,lightgray
+Smith et al (2022)10,,lightgray
+Sperry et al (2018)1,,lightgray
+Sperry et al (2018)2,,lightgray
+Sperry et al (2018)3,,lightgray
+Sperry et al (2018)4,,lightgray
+Sperry et al (2018)5,,lightgray
+Sperry et al (2018)6,,lightgray
+Steiner (2016)1,,lightgray
+Steiner (2016)2,,lightgray
+Steiner (2016)3,,lightgray
+Steiner (2016)4,,lightgray
+Steiner (2016)5,,lightgray
+Steiner (2016)6,,lightgray
+Stensballe et al (2018)1,,lightgray
+Stensballe et al (2018)2,,lightgray
+Stensballe et al (2018)3,,lightgray
+Stensballe et al (2018)4,,lightgray
+Stensballe et al (2018)5,,lightgray
+Stensballe et al (2018)6,,lightgray
+Stensballe et al (2018)7,,lightgray
+Stensballe et al (2018)8,,lightgray
+Tamura et al (2020)1,,lightgray
+Tamura et al (2020)2,,lightgray
+Tamura et al (2020)3,,lightgray
+Tamura et al (2020)4,,lightgray
+Tollofsrud (2003)1,,lightgray
+Tollofsrud (2003)2,,lightgray
+Tollofsrud (2003)3,,lightgray
+Tollofsrud (2003)4,,lightgray
+Tollofsrud (2003)5,,lightgray
+Yiu (2006)1,,lightgray
+Yiu (2006)2,,lightgray
+Yiu (2006)3,,lightgray
+Yiu (2006)4,,lightgray
+Zhang et al (20219)1,,lightgray
+Zhang et al (20219)2,,lightgray
+Zhang et al (20219)3,,lightgray
+Zhang et al (20219)4,,lightgray

@@ -1,0 +1,61 @@
+media,category,color,font,fontsize,fontcolor,edgewidth,edgecolor,nodeweight
+Clinical events,Level3,black,2,5,black,3,black,42
+Operative complications,Level3,black,2,4,black,2,black,8
+Transfusion reactions,Level3,black,2,7,black,3,black,54
+Need for operation,Level3,black,2,4,black,2,black,21
+Operative,Level3,black,2,7,black,3,black,54
+Hemostasis,Level3,black,2,7,black,3,black,42
+Anticoagulant,Level3,black,2,4,black,2,black,3
+Intracranial,Level3,black,2,10,black,4,black,162
+Brain,Level3,black,2,4,black,2,black,30
+Liver,Level3,black,2,4,black,2,black,1
+Other Mortality,Level3,black,2,5,black,2,black,42
+Time-Specific,Level3,black,2,5,black,3,black,57
+Timeliness,Level3,black,2,5,black,2,black,15
+Feasibility,Level3,black,2,4,black,2,black,1
+Useability ,Level3,black,2,5,black,3,black,12
+Clinical events Scale,Level3,black,2,6,black,3,black,42
+Factor concentrations,Level3,black,2,4,black,2,black,42
+Clotting times,Level3,black,2,4,black,2,black,6
+Viscoelastic tests,Level3,black,2,5,black,3,black,7
+Other,Level3,black,2,4,black,2,black,21
+Complete blood counts,Level3,black,2,4,black,2,black,8
+Lactate,Level3,black,2,7,black,3,black,42
+Other measures,Level3,black,2,4,black,2,black,21
+Additonal medication,Level3,black,2,5,black,3,black,57
+Hemostatic agents,Level3,black,2,4,black,2,black,15
+Units,Level3,black,2,4,black,2,black,10
+Volume,Level3,black,2,8,black,4,black,19
+Misc,Level3,black,2,4,black,2,black,3
+Massive Hemorrhage Protocol,Level3,black,2,3,black,2,black,23
+Cost,Level3,black,2,4,black,2,black,23
+Length of stay,Level3,black,2,7,black,3,black,28
+Bartelmaos (2013),Study,chartreuse,1,4,black,0.5,chartreuse,4
+Bindi (2013),Study,orchid,1,4,black,0.5,orchid,4
+Carson JL et al (2021),Study,cornsilk4,1,4,black,0.5,cornsilk4,4
+Chong Sung (2006),Study,palegoldenrod,1,4,black,0.5,palegoldenrod,4
+Demeyere et al (2010),Study,coral2,1,4,black,0.5,coral2,4
+Etemadreziae (2007),Study,paleturquoise4,1,4,black,0.5,paleturquoise4,4
+French (2003),Study,cyan1,1,4,black,0.5,cyan1,4
+Garrigue et al (2017),Study,peachpuff3,1,4,black,0.5,peachpuff3,4
+Goldstein (2015),Study,chartreuse4,1,4,black,0.5,chartreuse4,4
+Green et al (2020),Study,tomato,1,4,black,0.5,tomato,4
+Innerhofer (2017),Study,palevioletred1,1,4,black,0.5,palevioletred1,4
+Jost et al (2022),Study,peachpuff4,1,4,black,0.5,peachpuff4,4
+Karkouti et al (2021),Study,turquoise4,1,4,black,0.5,turquoise4,4
+Lance (2012),Study,cornflowerblue,1,4,black,0.5,cornflowerblue,4
+Massoumi G et al (2018),Study,peachpuff1,1,4,black,0.5,peachpuff1,4
+Matsumoto (2007),Study,chartreuse3,1,4,black,0.5,chartreuse3,4
+Moore (2018),Study,coral3,1,4,black,0.5,coral3,4
+Morrison et al (2019),Study,cornsilk3,1,4,black,0.5,cornsilk3,4
+Muller (2015),Study,turquoise,1,4,black,0.5,turquoise,4
+Pieters (2015),Study,wheat3,1,4,black,0.5,wheat3,4
+Sarode (2013),Study,yellow,1,4,black,0.5,yellow,4
+Smith et al (2022),Study,cadetblue3,1,4,black,0.5,cadetblue3,4
+Sperry et al (2018),Study,peru,1,4,black,0.5,peru,4
+Steiner (2016),Study,wheat1,1,4,black,0.5,wheat1,4
+Stensballe et al (2018),Study,orchid3,1,4,black,0.5,orchid3,4
+Tamura et al (2020),Study,wheat4,1,4,black,0.5,wheat4,4
+Tollofsrud (2003),Study,turquoise1,1,4,black,0.5,turquoise1,4
+Yiu (2006),Study,violetred4,1,4,black,0.5,violetred4,4
+Zhang et al (2019),Study,yellowgreen,1,4,black,0.5,yellowgreen,4

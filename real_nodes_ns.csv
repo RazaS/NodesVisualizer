@@ -1,0 +1,48 @@
+media,category,color,font,fontsize,fontcolor,edgewidth,edgecolor,nodeweight
+Additional Intervention,Level2,burlywood3,2,5,darkgoldenrod4,3,darkgoldenrod4,42
+Additonal medication,Level3,burlywood3,2,4,darkgoldenrod4,2,darkgoldenrod4,8
+Adverse events,Level2,coral1,2,7,coral4,3,coral4,54
+Anticoagulant,Level3,coral2,2,4,coral4,2,coral4,21
+Bleeding,Level2,coral2,2,7,coral4,3,coral4,54
+Blood usage,Level2,burlywood2,2,7,darkgoldenrod4,3,darkgoldenrod4,42
+Brain,Level3,coral3,2,4,coral4,2,coral4,3
+Clinical,Level1,coral,2,10,black,4,black,162
+Clinical events,Level3,coral1,2,4,coral4,2,coral4,30
+Clinical events Scale,Level3,slateblue1,2,4,slateblue4,2,slateblue4,1
+Clotting times,Level3,chocolate2,2,5,chocolate4,2,chocolate4,42
+Coagulation measures,Level2,chocolate2,2,5,chocolate4,3,chocolate4,57
+Complete blood counts,Level3,chocolate1,2,5,chocolate4,2,chocolate4,15
+Cost,Level3,burlywood3,2,4,darkgoldenrod4,2,darkgoldenrod4,1
+Delivery of care,Level2,slateblue1,2,5,slateblue4,3,slateblue4,12
+Economic,Level2,burlywood3,2,6,darkgoldenrod4,3,darkgoldenrod4,42
+Factor concentrations,Level3,chocolate2,2,4,chocolate4,2,chocolate4,42
+Feasibility,Level3,slateblue1,2,4,slateblue4,2,slateblue4,6
+Functioning,Level2,slateblue1,2,5,slateblue4,3,slateblue4,7
+Hemostasis,Level3,coral2,2,4,coral4,2,coral4,21
+Hemostatic agents,Level3,burlywood3,2,4,darkgoldenrod4,2,darkgoldenrod4,8
+Hospital,Level2,burlywood1,2,7,darkgoldenrod4,3,darkgoldenrod4,42
+Intracranial,Level3,coral2,2,4,coral4,2,coral4,21
+Laboratory measures,Level2,chocolate1,2,5,chocolate4,3,chocolate4,57
+Lactate,Level3,chocolate1,2,4,chocolate4,2,chocolate4,15
+Length of stay,Level3,burlywood1,2,4,darkgoldenrod4,2,darkgoldenrod4,10
+Life Impact,Level1,slateblue,2,8,black,4,black,19
+Liver,Level3,coral3,2,4,coral4,2,coral4,3
+Massive Hemorrhage Protocol,Level3,burlywood2,2,3,darkgoldenrod4,2,darkgoldenrod4,23
+Misc,Level3,burlywood2,2,4,darkgoldenrod4,2,darkgoldenrod4,23
+Mortality,Level2,gray,2,7,black,3,black,28
+Need for operation,Level3,coral1,2,4,coral4,2,coral4,30
+Operative,Level3,coral2,2,5,coral4,2,coral4,21
+Operative complications,Level3,coral1,2,3,coral4,2,coral4,30
+Organ effects,Level2,coral3,2,7,coral4,3,coral4,54
+Other,Level3,chocolate2,2,4,chocolate4,2,chocolate4,42
+Other measures,Level3,chocolate1,2,4,chocolate4,2,chocolate4,15
+Other Mortality,Level3,darkgray,2,4,black,2,black,14
+Physiological,Level1,chocolate,2,10,black,4,black,114
+Resource use,Level1,burlywood,2,9,black,4,black,126
+Timeliness,Level3,slateblue1,2,4,slateblue4,2,slateblue4,6
+Time-Specific,Level3,darkgray,2,4,black,2,black,14
+Transfusion reactions,Level3,coral1,2,4,coral4,2,coral4,30
+Units,Level3,burlywood2,2,4,darkgoldenrod4,2,darkgoldenrod4,23
+Useability ,Level3,slateblue1,2,4,slateblue4,2,slateblue4,6
+Viscoelastic tests,Level3,chocolate2,2,4,chocolate4,2,chocolate4,42
+Volume,Level3,burlywood2,2,4,darkgoldenrod4,2,darkgoldenrod4,23

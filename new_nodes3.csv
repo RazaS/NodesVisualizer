@@ -1,0 +1,118 @@
+﻿media,category,color,font,fontsize,fontcolor,edgewidth,edgecolor,nodeweight,medialabel
+Physiological (CA),Level1,brown2,2,7,black,9.4,brown2,94,Physiological 
+Adverse events (CA),Level1,coral4,2,7,black,2.9,coral4,29,Adverse events 
+Resource use (CA),Level1,cornflowerblue,2,7,black,8,cornflowerblue,80,Resource use 
+Life impact (CA),Level1,blue3,2,7,black,1.5,blue3,15,Life impact 
+Clinical (CA),Level1,forestgreen,2,7,black,2.2,forestgreen,22,Clinical 
+Death (CA),Level1,azure4,2,7,black,1.4,azure4,14,Death 
+Blood and lymphatic system outcomes (D 2),Level2,brown2,2,5,black,8.8,brown2,88,Blood and lymphatic system outcomes 
+Adverse events and effects (D 38),Level2,coral4,2,5,black,2.9,coral4,29,Adverse events and effects 
+Respiratory thoracic and mediastinal outcomes (D 22),Level2,brown2,2,5,black,0.3,brown2,3,Respiratory thoracic and mediastinal outcomes 
+Need for further intervention (D 36),Level2,cornflowerblue,2,5,black,6.5,cornflowerblue,65,Need for further intervention 
+Physical functioning (D 25),Level2,blue3,2,5,black,0.2,blue3,2,Physical functioning 
+Vascular outcomes (physiological) (D 24),Level2,brown2,2,5,black,2,brown2,20,Vascular outcomes 
+Vascular outcomes (clinical) (D 24),Level2,forestgreen,2,5,black,2,forestgreen,20,Vascular outcomes 
+Delivery of care (D 32),Level2,blue3,2,5,black,1,blue3,10,Delivery of care 
+Mortality and Survival (D 1),Level2,azure4,2,5,black,1.4,azure4,14,Mortality and Survival 
+Economic (D 34),Level2,cornflowerblue,2,5,black,0.1,cornflowerblue,1,Economic 
+Nervous system outcomes (D 17),Level2,forestgreen,2,5,black,0.4,forestgreen,4,Nervous system outcomes 
+Immune system outcomes (D 11),Level2,brown2,2,5,black,0.1,brown2,1,Immune system outcomes 
+Hospital (D 35),Level2,cornflowerblue,2,5,black,1.6,cornflowerblue,16,Hospital 
+Global quality of life (D 30),Level2,blue3,2,5,black,0.1,blue3,1,Global quality of life 
+Other laboratory measurements (D2) (MC),Level3,brown2,2,3,black,2.2,brown2,22,Other laboratory measurements 
+Other laboratory measurements (D22) (MC),Level3,brown2,2,3,black,2.2,brown2,22,Other laboratory measurements 
+Other laboratory measurements (D24) (MC),Level3,brown2,2,3,black,2.2,brown2,22,Other laboratory measurements 
+Other laboratory measurements (D11) (MC),Level3,brown2,2,3,black,2.2,brown2,22,Other laboratory measurements 
+Measures of coagulation (MC),Level3,brown2,2,3,black,5.7,brown2,57,Measures of coagulation 
+Adverse events (D36) (MC),Level3,cornflowerblue,2,3,black,3.2,cornflowerblue,32,Adverse events 
+Adverse events (D38) (MC),Level3,coral4,2,3,black,3.2,coral4,32,Adverse events 
+Blood usage (MC),Level3,cornflowerblue,2,3,black,5,cornflowerblue,50,Blood usage 
+Life impact (D25) (MC),Level3,blue3,2,3,black,0.2,blue3,2,Life impact 
+Life impact (D30) (MC),Level3,blue3,2,3,black,0.2,blue3,2,Life impact 
+Bleeding (D24) (MC),Level3,forestgreen,2,3,black,1.9,forestgreen,19,Bleeding 
+Bleeding (D2) (MC),Level3,brown2,2,3,black,1.9,brown2,19,Bleeding 
+Other (D32) (MC),Level3,blue3,2,3,black,0.4,blue3,4,Other 
+Other (D34) (MC),Level3,cornflowerblue,2,3,black,0.4,cornflowerblue,4,Other 
+Mortality (MC),Level3,azure4,2,3,black,1.5,azure4,15,Mortality 
+Organ specific treatment effect (D25) (MC),Level3,blue3,2,3,black,0.7,blue3,7,Organ specific treatment effect 
+Organ specific treatment effect (D17) (MC),Level3,forestgreen,2,3,black,0.7,forestgreen,7,Organ specific treatment effect 
+Organ specific treatment effect (D24) (MC),Level3,forestgreen,2,3,black,0.7,forestgreen,7,Organ specific treatment effect 
+Organ specific treatment effect (D32) (MC),Level3,blue3,2,3,black,0.7,blue3,7,Organ specific treatment effect 
+Feasibility (MC),Level3,blue3,2,3,black,0.6,blue3,6,Feasibility 
+Need for additional treatment (MC),Level3,cornflowerblue,2,3,black,1.2,cornflowerblue,12,Need for additional treatment 
+Length of stay (MC),Level3,cornflowerblue,2,3,black,1.5,cornflowerblue,15,Length of stay 
+Thromboelastography (OM),Level4,brown2,1,2,black,0.1,brown2,1,Thromboelastography 
+ACT (OM),Level4,brown2,1,2,black,0.1,brown2,1,ACT 
+Adverse events (OM),Level4,coral4,1,2,black,1.6,coral4,16,Adverse events 
+aPTT (OM),Level4,brown2,1,2,black,0.9,brown2,9,aPTT 
+arterial blood gas (OM),Level4,brown2,1,2,black,0.4,brown2,4,arterial blood gas 
+ATIII (OM),Level4,brown2,1,2,black,0.1,brown2,1,ATIII 
+Avoidance of allogeneic transfusion (OM),Level4,cornflowerblue,1,2,black,0.1,cornflowerblue,1,Avoidance of allogeneic transfusion 
+Barthel Index (OM),Level4,blue3,1,2,black,0.1,blue3,1,Barthel Index 
+Bleeding (OM),Level4,forestgreen,1,2,black,0.4,forestgreen,4,Bleeding 
+Blood loss (OM),Level4,forestgreen,1,2,black,0.6,forestgreen,6,Blood loss 
+Chest tube output (OM),Level4,azure4,1,2,black,0.3,azure4,3,Chest tube output 
+Coagulation factors (OM),Level4,brown2,1,2,black,1.1,azure4,11,Coagulation factors 
+Complement (OM),Level4,azure4,1,2,black,0.1,azure4,1,Complement 
+Complete Blood Count (OM),Level4,brown2,1,2,black,1,brown2,10,Complete Blood Count 
+Consented and received intervention (OM),Level4,azure4,1,2,black,0.1,azure4,1,Consented and received intervention 
+Ddimers (OM),Level4,azure4,1,2,black,0.2,azure4,2,Ddimers 
+Death (OM),Level4,azure4,1,2,black,0.3,azure4,3,Death 
+Donor exposure (OM),Level4,azure4,1,2,black,0.1,azure4,1,Donor exposure 
+Economic impact (OM),Level4,cornflowerblue,1,2,black,0.1,cornflowerblue,1,Economic impact 
+Electrolytes (OM),Level4,azure4,1,2,black,0.1,azure4,1,Electrolytes 
+Endothelial markers (OM),Level4,azure4,1,2,black,0.1,azure4,1,Endothelial markers 
+Extended Glasgow Outcome Scale (OM),Level4,azure4,1,2,black,0.1,azure4,1,Extended Glasgow Outcome Scale 
+Feasibility (OM),Level4,azure4,1,2,black,0.2,azure4,2,Feasibility 
+FFP (OM),Level4,azure4,1,2,black,0.1,azure4,1,FFP 
+Fibrin monomer (OM),Level4,azure4,1,2,black,0.1,azure4,1,Fibrin monomer 
+Fibrinogen (OM),Level4,brown2,1,2,black,1.1,brown2,11,Fibrinogen 
+Fluids (OM),Level4,azure4,1,2,black,0.5,azure4,5,Fluids 
+General (OM),Level4,azure4,1,2,black,0.1,azure4,1,General 
+Glascow Coma Scale (OM),Level4,azure4,1,2,black,0.1,azure4,1,Glascow Coma Scale 
+HCT (OM),Level4,azure4,1,2,black,0.2,azure4,2,HCT 
+Hemostatic agents (OM),Level4,cornflowerblue,1,2,black,0.7,cornflowerblue,7,Hemostatic agents 
+Hemostatic efficacy (OM),Level4,azure4,1,2,black,0.3,azure4,3,Hemostatic efficacy 
+in vivo thrombin generation (OM),Level4,brown2,1,2,black,0.1,brown2,1,in vivo thrombin generation 
+Inflammation markers (OM),Level4,azure4,1,2,black,0.1,azure4,1,Inflammation markers 
+INR (OM),Level4,brown2,1,2,black,1.4,brown2,14,INR 
+Intracerebral hemorrhage (OM),Level4,azure4,1,2,black,0.2,azure4,2,Intracerebral hemorrhage 
+Lenght of hospital stay (OM),Level4,cornflowerblue,1,2,black,0.1,cornflowerblue,1,Lenght of hospital stay 
+LOS Hospital (OM),Level4,cornflowerblue,1,2,black,0.6,cornflowerblue,6,LOS Hospital 
+LOS ICU (OM),Level4,cornflowerblue,1,2,black,0.8,cornflowerblue,8,LOS ICU 
+LOS PICU (OM),Level4,cornflowerblue,1,2,black,0.1,cornflowerblue,1,LOS PICU 
+Lung injury (OM),Level4,azure4,1,2,black,0.1,azure4,1,Lung injury 
+Major bleeding (OM),Level4,azure4,1,2,black,0.2,azure4,2,Major bleeding 
+Mortality (OM),Level4,azure4,1,2,black,0.9,azure4,9,Mortality 
+mRS score (OM),Level4,azure4,1,2,black,0.1,azure4,1,mRS score 
+National Institute of Health Stroke Scale (OM),Level4,azure4,1,2,black,0.1,azure4,1,National Institute of Health Stroke Scale 
+Need for massive transfusion (OM),Level4,azure4,1,2,black,0.2,azure4,2,Need for massive transfusion 
+Other (OM),Level4,azure4,1,2,black,0.1,azure4,1,Other 
+Plasma (OM),Level4,cornflowerblue,1,2,black,1.4,cornflowerblue,14,Plasma 
+Plasma thromboplastin time (PTT) (OM),Level4,azure4,1,2,black,0.1,azure4,1,Plasma thromboplastin time 
+plasma to crystalloid ratio (OM),Level4,azure4,1,2,black,0.1,azure4,1,plasma to crystalloid ratio 
+Platelets (OM),Level4,cornflowerblue,1,2,black,1.3,cornflowerblue,13,Platelets 
+Protein C and S (OM),Level4,brown2,1,2,black,0.2,azure4,2,Protein C and S 
+Prothrombin (OM),Level4,azure4,1,2,black,0.1,azure4,1,Prothrombin 
+Protocol adherence (OM),Level4,azure4,1,2,black,0.1,azure4,1,Protocol adherence 
+PT (OM),Level4,brown2,1,2,black,0.6,azure4,6,PT 
+PTT (OM),Level4,brown2,1,2,black,0.3,azure4,3,PTT 
+Pulmonary oedema (OM),Level4,azure4,1,2,black,0.1,azure4,1,Pulmonary oedema 
+Quality of life (OM),Level4,azure4,1,2,black,0.1,azure4,1,Quality of life 
+RBC (OM),Level4,cornflowerblue,1,2,black,1.6,cornflowerblue,16,RBC 
+renal failure (OM),Level4,coral4,1,2,black,0.1,coral4,1,renal failure 
+Reoperation (OM),Level4,coral4,1,2,black,0.4,coral4,4,Reoperation 
+Reptilase time (OM),Level4,azure4,1,2,black,0.1,azure4,1,Reptilase time 
+Reversal of coagulopathy (OM),Level4,azure4,1,2,black,0.1,azure4,1,Reversal of coagulopathy 
+safety (OM),Level4,azure4,1,2,black,0.1,azure4,1,safety 
+Survival (OM),Level4,azure4,1,2,black,0.1,azure4,1,Survival 
+Thrombin generation (OM),Level4,azure4,1,2,black,0.1,azure4,1,Thrombin generation 
+Time from intervention to chest closure (OM),Level4,azure4,1,2,black,0.1,azure4,1,Time from intervention to chest closure 
+Time to intervention (OM),Level4,azure4,1,2,black,0.1,azure4,1,Time to intervention 
+Time to RBCtransfusion (OM),Level4,azure4,1,2,black,0.1,azure4,1,Time to RBCtransfusion 
+Time to transfuion (OM),Level4,azure4,1,2,black,0.1,azure4,1,Time to transfuion 
+Traceability (OM),Level4,azure4,1,2,black,0.1,azure4,1,Traceability 
+Transfusion reaction (OM),Level4,coral4,1,2,black,0.6,coral4,6,Transfusion reaction 
+Urgent surgery (OM),Level4,cornflowerblue,1,2,black,0.1,cornflowerblue,1,Urgent surgery 
+Viscoelastic tests (OM),Level4,brown2,1,2,black,0.4,brown2,4,Viscoelastic tests 
+Whole Blood (OM),Level4,cornflowerblue,1,2,black,0.2,cornflowerblue,2,Whole Blood 
